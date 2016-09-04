@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{cv.html}, title{Bo Wu - CV},nodefaultcss,addcss{jemdoc.css}
+
+The PDF version of my CV can be found [doc/cv.pdf here]
+
+= EDUCATION
+
+University of Notre Dame, Notre Dame, IN
+- Ph.D. in Electrical Engineering (GPA: 3.8/4), 2017 (expected) 
+- Two time recipient, Notebaert Professional Development Award 
+- Thesis: (Working Title) Formal Methods in Control of Probabilistic Systems 
+- Advisor: [http://www.nd.edu/~hlin1 Prof. Hai Lin] 
+	
+Lund University, Lund, Sweden
+- Master of Science in Electrical Engineering (GPA: 4/4), May 2011
+
+Xi'an Jiaotong University, Xi’an, China
+- Master Student in Electrical Engineering, May 2009
+
+Harbin Institute of Technology, Harbin, China
+- Bachelor of Science in Electrical Engineering (GPA: 89.7/100), July 2008
+- Recipient, National Scholarship 
+
+= PROFESSIONAL EXPERIENCE
+
+University of Notre Dame, Notre Dame, IN
+Research Assistant, DISCOVER Lab, August 2011 – present
+- Proposed a formal method approach for trust based human robot interaction with application in collaborative manufacturing system, resulting in 1 submission to IEEE top conference.
+- Designed machine learning based framework for probabilistic systems control, with potential application in motion planning and human robot interaction, resulting in 3 publications at IEEE top conferences
+- Proposed a unified approach to multi-agent systems, combining top-down task allocation and bottom-up local motion planning such that connectivity and coordination can be guaranteed, research resulted in publication at the 2015 IFAC Conference on Analysis and Design of Hybrid Systems
+- Analyzed the stability of networked control systems with practical communication protocol and proposed communication-control co-design, resulting in 2 top conference presentations and 1 journal (under review)
+- Developed Baxter humanoid robot, utilizing Robot Operating System and Python to establish vision based robot sensing and manipulation
+- Designed Unmanned Aerial Vehicle (UAV) interface structure, modifying the UAV firmware and programming the onboard computer to achieve autonomous indoor flight
+
+Lund University, Lund, Sweden
+- Master Project, Department of Electrical and Information Technology, August 2009-May 2011
+- Analyzed real data with MATLAB collected by Ericsson AB, studying how multi-sector cooperation improves channel capacity in cellular networks. Project resulted in publication in peer viewed journal 
+
+= Leadership & Service  
+- Professional Affiliations: IEEE, IEEE Control Society
+- Leadership Activities: American Control Conference, 2015, Session Chair; DISCOVER Lab, National Robotics Week, 2014, 2015 and 2016, Team Lead; 
+- Peer Reviewer for:
+  -- IEEE Conference on Decision and Control
+  -- American Control Conference
+  -- IEEE Transactions on Automatic Control 
+  -- IFAC Conference on Analysis and Design of Hybrid Systems
+  -- IEEE Vehicular Technology Conference
+  -- Unmanned Systems
+= Technical Skills 
+- Computer Skills:  Proficient in C/C++, Python.  MATLAB, Linux, Robot Operating System. 
+- Languages: Fluent in Mandarin  
+
+

@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{publications.html}, title{Bo Wu - Publications},nodefaultcss,addcss{jemdoc.css}
+
+
+= \n *Bo Wu -- Publications*
+
+Below is a list of my publications.
+. Combined Top-Down and Bottom-Up Approaches to Performance-guaranteed Design of Cooperative Multi-agent Systems \n
+  R. Rodrigues da Silva, *B. Wu*, J. Dai and H. Lin. Preparing to submit to IEEE Transactions on Robotics soon, 2016.
+. Trust Based Human Robot Interaction in Manufacturing System \n
+  *B. Wu* and H. Lin. Preparing to submit to American Control Conference (ACC), 2017
+. Formal Design of Cooperative Multi-Agent Systems (extended abstract) \n
+  R. Rodrigues da Silva, *B. Wu*, J. Dai and H. Lin. 2016 AAAI Fall Symposium on Cross-Disciplinary Challenges for Autonomous Systems (CDCAS-2016), accepted
+. Assume-guarantee Reasoning Framework for MDP-POMDP \n
+  X. Zhang, *B. Wu* and H. Lin. Decision and Control (CDC), 2016 IEEE 55th Annual Conference on,2016, accepted.
+. Formal Design of Robot Integrated Task and Motion Planning \n
+  R. Rodrigues da Silva, *B. Wu* and H. Lin. Decision and Control (CDC), 2016 IEEE 55th Annual Conference on,2016, accepted.
+. Counterexample-guided Distributed Permissive Supervisor Synthesis for Probabilistic Multi-agent Systems through Learning \n
+  *B. Wu* and H. Lin. American Control Conference (ACC), 5519-5524, 2016
+. Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol \n
+  *B. Wu*, M. Lemmon, H. Lin. IEEE Transactions on Control Systems Technology, under revision, 2016
+. Learning Based Supervisor Synthesis of POMDP for PCTL Specifications \n
+  X. Zhang, *B. Wu* and H. Lin. Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 7470-7475, 2015.
+. Combined Top-down and Bottom-up Approach to Cooperative Distributed Multi-agent Control with Connectivity Constraints \n
+  *B. Wu*, J. Dai and H. Lin. The 5th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 224-229, 2015.
+. Counterexample-guided Permissive Supervisor Synthesis for Probabilistic Systems through Learning \n 
+  *B. Wu* and H. Lin. American Control Conference (ACC), 2894-2899, 2015
+. Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol \n
+  *B. Wu*, H. Lin and M. Lemmon. Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on, 5266-5271, 2014.
+. Stability Analysis for Wireless Networked Control System in Unslotted IEEE 802.15.4 Protocol \n 
+  *B. Wu*, H. Lin and M. Lemmon. Control Automation (ICCA), 11th IEEE International Conference on, 1084-1089, 2014.
+. On MIMO Performance Enhancement with Multisector Cooperation in a Measured Urban Environment \n
+  R. Tian, *B. Wu*, B. Lau and J. Medbo. IEEE Antennas and Wireless Propagation Letters, Vol 11, 2012.
+
+

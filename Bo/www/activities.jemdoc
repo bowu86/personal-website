@@ -1,0 +1,60 @@
+# jemdoc: menu{MENU}{activities.html}, title{Bo Wu - Activities},nodefaultcss,addcss{jemdoc.css}
+
+
+= \n *Bo Wu -- Activities*
+
+I have had the pleasure to work with some great undergradutes from Electrical Engineering, Mechanical Engineering and Computer Science.
+
+== Undergraduate students supervisor
+
+
+
+~~~
+{}{img_left}{pic\Sam.JPG}{alt text}{340}{260}
+- *Baxter robot object manipulation*, June to August, 2016
+-- *Sam Lyu, University of British Columbia, Canada, Mechanical Engineering*
+
+This summer project involves 1 undergraduate student. The goal of this project is to have the Baxter robot grasp the corners of a towel based on vision for human robot collaboration. From left to right: Bo, Yinhao and Sam.
+~~~
+
+
+
+~~~
+{}{img_left}{pic\2016.JPG}{alt text}{340}{240}
+- *Co-axial unmanned aerial vehicle (UAV) design*, spring semester, 2016
+-- *Andrew Lasher, Mechanical Engineering and Marcel CachovadePaiva, Electrical Engineering*
+
+This undergraduate project involves one Mechanical Engineering student for model design andand one Electrical Engineering student for electronic aspects. This project is to design and build a co-axial UAV that can fly and may bind to each other through magnets to increase their capability. The team attended the poster session of Notre Dame's Undergraduate Scholars Conference, 2016. From left to right: Marcel, Andrew and Bo.
+~~~
+
+
+
+~~~
+{}{img_left}{pic\2015.JPG}{alt text}{340}{260}
+- *3D printed unmmaned aerial vehicles*, spring semester, 2015
+-- *Andrew Lasher and Joe Driano, Mechanical Engineering*
+
+This undergraduate project involves two Mechanical Engineering students for modelling and assemby. This project is to design and build a quadrotor prototype that can fly and is modular in the sense that its acuator parts are easily replacable. The team attended the poster session of Notre Dame's Undergraduate Scholars Conference, 2015. From left to right: [http://www3.nd.edu/~xzhang11/ Xiaobin], Joe, Andrew, [http://www3.nd.edu/~hlin1/ Dr. Lin] and Bo.
+~~~
+
+
+
+~~~
+{}{img_left}{pic\2014.jpg}{alt text}{340}{200}
+- *Vision-based tracking using Ar. Drone*, spring semester, 2014
+-- *Joe Driano, Matthew Biggins, Mechanical Engineering and Thomas Luppi, Computer Science Engineering*
+
+This undergraduate project involves two Mechanical Engineering students for object tracking and control of Ar. Drone, a commercial Quadrotor that can be controlled remotely through Wi-Fi. This project involves image process and vision-based feedback control. The team attended the National Robotics Week in 2014. Joe is beside the girl with the large tenis ball, Matthew and Thomas are behind the PC
+~~~
+
+== Team lead of the [https://engineering.nd.edu/ndnrw National Robotics Week]
+
+~~~
+{}{img_left}{pic\nrw.jpg}{alt text}{350}{500}
+- I attened National Robotics Week in 2014, 2015 and 2016 consecutively. I had tons of fun showing our robotic demos and explain them to the kids and hopefully arouse their interest in our marvelous engineering world. 
+- As the team lead, I was in charge of the demo design, implementation, coordination, task assignment and of course, interacting with curious little ones!
+~~~
+
+
+
+

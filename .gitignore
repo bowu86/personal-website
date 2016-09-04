@@ -3,7 +3,7 @@
 
 *~
 # jemdoc files
-*.jemdoc
+#*.jemdoc
 
 #python files
 *.py

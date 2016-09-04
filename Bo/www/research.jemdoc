@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{research.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css}
+
+
+= \n *Bo Wu -- Research*
+
+~~~
+- Towards a verified Artificial Intelligence
+
+My research interests span the areas of control theory, cyberphysical systems and robotics. In particular, I am motivated by learning based safety-critical applications requiring performance guarantees such as search and rescue with a team of robots. I am also interested in human robot interaction with performance guarantees such as manufacturing, semi-autonomous driving and self-driving. Current methods for the specification, design, and cyberphysical systems are mostly  trial-and-error processes which may lack of performance guarantee and could lead to unexpected failures. My research applies ideas from machine learning, model checking and optimization to develop scalable formal methods framework to guarantee the correct behavior of such complex systems.
+~~~
+
+== Project
+- Human robot collaboration with performance guarantees
+- Combind top-down and bottom-up approaches for multi-robot system planning
+- Learning based supervisory control of probabilistic multi-agent systems 
+- Formal methods based stability analysis of wireless networked control systems
+- Autonomous indoor fly of unmanned aerial vehicles
+- Capacity improvement for celluar networks with multi-sector cooperation 
+
+
+
