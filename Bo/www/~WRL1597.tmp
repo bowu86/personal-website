@@ -12,16 +12,7 @@ My research interests span the areas of control theory, cyber physical systems a
 == Project
 - Human robust collaboration with performance guarantees
 {}{img_left}{pic\hri.jpg}
-A reliable and effective collaboration between human and machine has been recognized as being important or even necessary for many safety-critical systems, such as intelligent transportation and manufacturing automation. Achieving such a reliable and effective human-machine collaboration, however, is fairly challenging so far due to the complexities introduced by various types of system uncertainties that may arise from human operation, machine dynamics as well as dynamically changing environments and dynamic interactions between human.
-
-This project it to build a unified formal design framework enabling a resilient human-machine collaboration with performance guarantee. The ideas are drawn from control theory, machine learning and human factor engineering.
-
-Our primary results show that to achieve efficient and reliable collaboration, probabilistic models must be established which take human fatigue, trust and robot states into consideration. Temporal logic specifications must be enforced to guarantee desired system behavior and optimization needs to be performed for efficiency. 
-
-Publication:
-. Trust Based Human Robot Interaction in Manufacturing System \n
-  *B. Wu* and H. Lin. Preparing to submit to American Control Conference (ACC), 2017
-
+A reliable and effective collaboration between human and machine has been recognized as being important or even necessary for many safety-critical systems, such as intelligent transportation and manufacturing automation. Achieving such a reliable and effective human-machine collaboration, however, is fairly challenging due to the complexities introduced by various types of system uncertainties that may arise from human operation, machine dynamics as well as dynamically changing environments dynamic interactions between human, machine and external environments
 - Combined top-down and bottom-up approaches for multi-robot system planning
 - Learning based supervisory control of probabilistic multi-agent systems 
 - Formal methods based stability analysis of wireless networked control systems

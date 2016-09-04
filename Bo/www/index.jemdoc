@@ -9,6 +9,7 @@
 [http://www.nd.edu/~bwu3/ Bo Wu]
 
 Ph.D. Candidate
+Advisor [http://www3.nd.edu/~hlin1/ Dr. Hai Lin]
 
 [https://sites.google.com/a/nd.edu/discoverlab/home DISCOVER lab]
 
@@ -20,9 +21,9 @@ Ph.D. Candidate
 
 
 == Research
-- My research interests span the areas of control theory, cyberphysical systems and robotics. In particular, I am motivated by safety-critical applications requiring performance guarantees involving autonomous aerial and ground vehicles carrying out complex tasks in uncertain and adversarial environments (e.g., a team of robots performing a search and rescue task.). 
+- My research interests span the areas of control theory, cyber physical systems and robotics. In particular, I am motivated by safety-critical applications requiring performance guarantees involving autonomous aerial and ground vehicles carrying out complex tasks in uncertain and adversarial environments (e.g., a team of robots performing a search and rescue task.). 
 - Another research thrust is on human robot interaction where the robot and human collaboratively perform certain shared tasks (e.g., manufacturing, semi-autonomous driving) or individual tasks in shared environments (e.g., mixed traffic with self-driving cars and human driving cars). 
-- Current methods for the specification, design, and cyberphysical systems (possibly with human in the loop) are mostly ad hoc and trial-and-error processes which may lack of performance guarantee and could lead to unexpected failures. My research applies ideas from machine learning, model checking and optimization to develop scalable formal methods framework to guarantee the correct behavior of such complex systems.
+- Current methods for the specification, design, and cyber physical systems (possibly with human in the loop) are mostly ad hoc and trial-and-error processes which may lack of performance guarantee and could lead to unexpected failures. My research applies ideas from machine learning, model checking and optimization to develop scalable formal methods framework to guarantee the correct behavior of such complex systems.
 
 == Education
 - Ph.D., Electrical Engineering, [http://www.nd.edu University of Notre Dame], USA, 2017 (expect)
