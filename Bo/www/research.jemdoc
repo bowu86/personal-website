@@ -71,6 +71,13 @@ Publication:
 
 === Autonomous indoor fly of unmanned aerial vehicles
 ~~~
+Design the UAV interface structure. Modify the UAV 
+rmware, add necessary
+communication modules and onboard computer such as Gumstix and Raspberry
+PI and sensors (Lidar, camera).
+ Program the UAV so that it can 
+y autonomously indoor with the help of the
+localization system and sense the environment to achieve higher autonomy.
 {}{raw}
 <iframe width="420" height="315" src="https://www.youtube.com/embed/F4EuTMwy9zc?rel=0" frameborder="0" allowfullscreen>
 </iframe>			
