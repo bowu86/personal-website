@@ -17,7 +17,7 @@ A reliable and effective collaboration between human and machine has been recogn
 
 This project it to build a unified formal design framework enabling a resilient human-machine collaboration with performance guarantee. The ideas are drawn from control theory, machine learning and human factor engineering.
 
-Our primary results show that to achieve efficient and reliable collaboration, probabilistic models must be established which take human fatigue, trust and robot states into consideration. Temporal logic specifications must be enforced to guarantee desired system behavior and optimization needs to be performed for efficiency. 
+Our primary results show that to achieve efficient and reliable collaboration, probabilistic models such as Markov Decision Processes (MDP) or Partially Observable MDP (POMDP) must be established which take human fatigue, trust and robot states into consideration. Temporal logic specifications must be enforced to guarantee desired system behavior and optimization needs to be performed for efficiency. 
 
 Publication:
 . Trust Based Human Robot Interaction in Manufacturing System \n
