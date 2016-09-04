@@ -21,23 +21,31 @@
 <td id="layout-content">
 <h1><br /> <b>Bo Wu &ndash; Research</b></h1>
 <div class="infoblock">
+<div class="blocktitle">Towards a verified Artificial Intelligence</div>
 <div class="blockcontent">
-<ul>
-<li><p>Towards a verified Artificial Intelligence</p>
-</li>
-</ul>
 <p>My research interests span the areas of control theory, cyber physical systems and robotics. In particular, I am motivated by learning based safety-critical applications requiring performance guarantees such as search and rescue with a team of robots. I am also interested in human robot interaction with performance guarantees such as manufacturing, semi-autonomous driving and self-driving. Current methods for the specification, design, and cyber physical systems are mostly trial-and-error processes which may lack of performance guarantee and could lead to unexpected failures. My research applies ideas from machine learning, model checking and optimization to develop scalable formal methods framework to guarantee the correct behavior of such complex systems.</p>
 </div></div>
 <h2>Project</h2>
-<ul>
-<li><p><b>Robust human robot collaboration with performance guarantees</b></p>
-</li>
-</ul>
+<h3><b>Robust human robot collaboration with performance guarantees</b></h3>
 <table class="imgtable"><tr><td>
-<img src="pic\hri.jpg" alt="alt text" width="500px" height="200px" />&nbsp;</td>
+<img src="pic\hri.jpg" alt="alt text" width="400px" height="160px" />&nbsp;</td>
 <td align="left"><p>A reliable and effective collaboration between human and machine has been recognized as being important or even necessary for many safety-critical systems, such as intelligent transportation and manufacturing automation. Achieving such a reliable and effective human-machine collaboration, however, is fairly challenging so far due to the complexities introduced by various types of system uncertainties that may arise from human operation, machine dynamics as well as dynamically changing environments and dynamic interactions between human.</p>
 <p>This project it to build a unified formal design framework enabling a resilient human-machine collaboration with performance guarantee. The ideas are drawn from control theory, machine learning and human factor engineering.</p>
 <p>Our preliminary results show that to achieve efficient and reliable collaboration, probabilistic models such as Markov Decision Processes (MDP) or Partially Observable MDP (POMDP) must be established which take human fatigue, trust and robot states into consideration. Temporal logic specifications must be enforced to guarantee desired system behavior and optimization needs to be performed for efficiency. </p>
+
+<ul>
+<li>
+<ul>
+<li><p>Developed theoretical results on human robot interaction modelling with linear temporal logic (LTL) specification</p>
+</li>
+<li><p>Performed Matlab simulation &rsquo;</p>
+</li>
+<li><p>Major contributor on the proof-of-concept demo (Python progam under ROS combining perception, manipulation and planning)</p>
+</li>
+</ul>
+
+</li>
+</ul>
 <p>Publication:</p>
 <ol>
 <li><p>Trust Based Human Robot Interaction in Manufacturing System <br />
@@ -45,16 +53,14 @@
 </li>
 </ol>
 </td></tr></table>
-<ul>
-<li><p><b>Combined top-down and bottom-up approaches for multi-robot system planning</b></p>
-</li>
-</ul>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/3LhNnlZMdfk" frameborder="0" allowfullscreen></iframe>
+	
+<h3><b>Combined top-down and bottom-up approaches for multi-robot system planning</b></h3>
 <table class="imgtable"><tr><td>
-<img src="pic\combined.png" alt="alt text" width="500px" height="500px" />&nbsp;</td>
+<img src="pic\combined.png" alt="alt text" width="400px" height="400px" />&nbsp;</td>
 <td align="left"><p>Cooperative multi-agent systems offer greater efficiency and flexibility due to the redundancy of functionalities, ability to re-configuration and robustness to uncertain environments with applications in power grids, transportation systems, computer networks to robotic teams.</p>
 <p>This project is to establish formal design framework to automatically synthesize coordination and control schemes for cooperative multi-agent systems by combining a top-down mission planning with a bottom-up motion planning.</p>
-<p>A compositional and learning based high level mission planning layer is proposed to decompose the global mission into local tasks. The motion planning for each robot is then solved by composing basic motion primitives that are verified safe by differential dynamic logic (d<img class="eq" src="eqs/6379065522976502591-130.png" alt="mathcal{L}" style="vertical-align: -1px" />). The motion primitive composition is through a Satisfiability Modulo Theories (SMT) solver that searches feasible solutions in face of constraints due to local task requirements and the environment description. </p>
-<p>Our method can handle changing environments and on-line mission replanning. </p>
 <p>Publication:</p>
 <ol>
 <li><p><a href="http://arxiv.org/abs/1607.07797">Combined Top-Down and Bottom-Up Approaches to Performance-guaranteed Design of Cooperative Multi-agent Systems</a> <br />
@@ -68,19 +74,30 @@ R. Rodrigues da Silva, <b>B. Wu</b> and H. Lin. Decision and Control (CDC), 2016
 </li>
 </ol>
 </td></tr></table>
-<ul>
-<li><p>Learning based supervisory control of probabilistic multi-agent systems </p>
+<h3>Learning based supervisory control of probabilistic multi-agent systems </h3>
+<h3>Formal methods based stability analysis of wireless networked control systems (WNCS)</h3>
+<div class="infoblock">
+<div class="blockcontent">
+<p>The stability of a WNCS is subjected to the uncertainties from unreliable communication. A formel method based approach is proposed to analyze the WNCS performance under imperfect wireless communication. This project built a communication and control codesign framework in which tradeoff has to be made between stability and communication parameter design.</p>
+<p>Publication:</p>
+<ol>
+<li><p>Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol <br />
+<b>B. Wu</b>, M. Lemmon, H. Lin. IEEE Transactions on Control Systems Technology, under revision, 2016</p>
 </li>
-<li><p>Formal methods based stability analysis of wireless networked control systems</p>
+<li><p>Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol <br />
+<b>B. Wu</b>, H. Lin and M. Lemmon. Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on, 5266-5271, 2014.</p>
 </li>
-<li><p>Autonomous indoor fly of unmanned aerial vehicles</p>
+<li><p>Stability Analysis for Wireless Networked Control System in Unslotted IEEE 802.15.4 Protocol <br /> 
+<b>B. Wu</b>, H. Lin and M. Lemmon. Control Automation (ICCA), 11th IEEE International Conference on, 1084-1089, 2014.</p>
 </li>
-<li><p>Capacity improvement for cellular networks with multi-sector cooperation </p>
-</li>
-</ul>
+</ol>
+</div></div>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/F4EuTMwy9zc?rel=0" frameborder="0" allowfullscreen>< iframe>			
+
+<h3>Capacity improvement for cellular networks with multi-sector cooperation </h3>
 <div id="footer">
 <div id="footer-text">
-Page generated 2016-09-04 17:37:36 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2016-09-04 18:30:41 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
