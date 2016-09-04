@@ -1,0 +1,16 @@
+# Object files
+*.o
+
+*~
+# jemdoc files
+*.jemdoc
+
+#python files
+*.py
+
+# COMICS output files
+comics-1.0/counter_example*.*
+
+# qtcreator user file
+*.user
+
