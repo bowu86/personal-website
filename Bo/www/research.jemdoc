@@ -58,6 +58,7 @@ Publication:
 === Learning based supervisory control of probabilistic multi-agent systems 
 === Formal methods based stability analysis of wireless networked control systems (WNCS)
 ~~~
+{}{img_left}{pic\wncs.png}{alt text}{400}{300}
 The stability of a WNCS is subjected to the uncertainties from unreliable communication. A formel method based approach is proposed to analyze the WNCS performance under imperfect wireless communication. This project built a communication and control codesign framework in which tradeoff has to be made between stability and communication parameter design.
 
 Publication:
@@ -71,10 +72,11 @@ Publication:
 
 === Autonomous indoor fly of unmanned aerial vehicles
 ~~~
-{}{img_left}{pic\uav.JPG}{alt text}{400}{360}
+{}{img_left}{pic\uav.JPG}{alt text}{300}{360}
 - Design the UAV interface structure. Modify the UAV firmware, add necessary communication modules and onboard computer such as Gumstix and Raspberry PI and sensors (Lidar, camera).
-- program the UAV so that it can fly autonomously indoor with the help of the localization system and sense the environment to achieve higher autonomy.
+- Program the UAV so that it can fly autonomously indoor with the help of the localization system and sense the environment to achieve higher autonomy.
 ~~~
+
 ~~~
 {}{raw}
 <iframe width="420" height="315" src="https://www.youtube.com/embed/F4EuTMwy9zc?rel=0" frameborder="0" allowfullscreen>
