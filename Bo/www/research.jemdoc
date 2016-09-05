@@ -19,11 +19,11 @@ This project it to build a unified formal design framework enabling a resilient 
 
 Our preliminary results show that to achieve efficient and reliable collaboration, probabilistic models such as Markov Decision Processes (MDP) or Partially Observable MDP (POMDP) must be established which take human fatigue, trust and robot states into consideration. Temporal logic specifications must be enforced to guarantee desired system behavior and optimization needs to be performed for efficiency. A supervisor or the control policy can be learned iteratively through making queries.
 
--- Developed counterexample guided supervisor learning framework, currently working on the software in C++ under ROS to make the whole process automated
--- Developed theoretical results on human robot interaction modelling with linear temporal logic (LTL) specification
--- Performed Matlab simulation
--- Major contributor on the proof-of-concept demo (Python progam under ROS combining perception, manipulation and planning)
--- Highlighted in Electrical Engineering department's homepage ([https://www.ee.nd.edu/highlights/from-real-steel-to-reality link])
+- Developed counterexample guided supervisor learning framework, currently working on the software in C++ under ROS to make the whole process automated
+- Developed theoretical results on human robot interaction modelling with linear temporal logic (LTL) specification
+- Performed Matlab simulation
+- Major contributor on the proof-of-concept demo (Python progam under ROS combining perception, manipulation and planning)
+- Highlighted in Electrical Engineering department's homepage ([https://www.ee.nd.edu/highlights/from-real-steel-to-reality link])
 
 Publication:
 . Trust Based Human Robot Interaction in Manufacturing System \n
