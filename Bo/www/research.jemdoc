@@ -10,7 +10,7 @@ My research interests span the areas of control theory, cyber physical systems a
 ~~~
 
 == Project
-=== *Robust human robot collaboration with performance guarantees*
+=== *Robust learning based human robot collaboration with performance guarantees*
 ~~~
 {}{img_left}{pic\hri.jpg}{alt text}{400}{160}
 A reliable and effective collaboration between human and machine has been recognized as being important or even necessary for many safety-critical systems, such as intelligent transportation and manufacturing automation. Achieving such a reliable and effective human-machine collaboration, however, is fairly challenging so far due to the complexities introduced by various types of system uncertainties that may arise from human operation, machine dynamics as well as dynamically changing environments and dynamic interactions between human.
@@ -26,6 +26,15 @@ Our preliminary results show that to achieve efficient and reliable collaboratio
 Publication:
 . Trust Based Human Robot Interaction in Manufacturing System \n
   *B. Wu*, B. Hu and H. Lin. Preparing to submit to American Control Conference (ACC), 2017
+  X. Zhang, *B. Wu* and H. Lin. Decision and Control (CDC), 2016 IEEE 55th Annual Conference on,2016, accepted.
+. Counterexample-guided Distributed Permissive Supervisor Synthesis for Probabilistic Multi-agent Systems through Learning \n
+  *B. Wu* and H. Lin. American Control Conference (ACC), 5519-5524, 2016
+. Learning Based Supervisor Synthesis of POMDP for PCTL Specifications \n
+  X. Zhang, *B. Wu* and H. Lin. Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 7470-7475, 2015.
+. Combined Top-down and Bottom-up Approach to Cooperative Distributed Multi-agent Control with Connectivity Constraints \n
+  *B. Wu*, J. Dai and H. Lin. The 5th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 224-229, 2015.
+. Counterexample-guided Permissive Supervisor Synthesis for Probabilistic Systems through Learning \n 
+  *B. Wu* and H. Lin. American Control Conference (ACC), 2894-2899, 2015
 ~~~
 
 ~~~
@@ -53,9 +62,11 @@ Publication:
   R. Rodrigues da Silva, *B. Wu*, J. Dai and H. Lin. 2016 AAAI Fall Symposium on Cross-Disciplinary Challenges for Autonomous Systems (CDCAS-2016), accepted
 . [http://arxiv.org/abs/1604.05657 Formal Design of Robot Integrated Task and Motion Planning] \n
   R. Rodrigues da Silva, *B. Wu* and H. Lin. Decision and Control (CDC), 2016 IEEE 55th Annual Conference on,2016, accepted.
+. Combined Top-down and Bottom-up Approach to Cooperative Distributed Multi-agent Control with Connectivity Constraints \n
+  *B. Wu*, J. Dai and H. Lin. The 5th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 224-229, 2015.
 ~~~
 
-=== Learning based supervisory control of probabilistic multi-agent systems 
+
 === Formal methods based stability analysis of wireless networked control systems (WNCS)
 ~~~
 {}{img_left}{pic\wncs.png}{alt text}{400}{300}
@@ -72,7 +83,7 @@ Publication:
 
 === Autonomous indoor fly of unmanned aerial vehicles
 ~~~
-{}{img_left}{pic\uav.JPG}{alt text}{300}{360}
+{}{img_left}{pic\uav.JPG}{alt text}{280}{360}
 - Design the UAV interface structure. Modify the UAV firmware, add necessary communication modules and onboard computer such as Gumstix and Raspberry PI and sensors (Lidar, camera).
 - Program the UAV so that it can fly autonomously indoor with the help of the localization system and sense the environment to achieve higher autonomy.
 ~~~
@@ -83,7 +94,15 @@ Publication:
 </iframe>			
 ~~~
 === Capacity improvement for cellular networks with multi-sector cooperation 
+~~~
+{}{img_left}{pic\uav.JPG}{alt text}{400}{300}
+- Analyzed real communication channel data collected by Ericsson AB
+- Studied how multi-sector cooperation improves channel capacity in cellular networks. 
 
+Publication:
+. On MIMO Performance Enhancement with Multisector Cooperation in a Measured Urban Environment \n
+  R. Tian, *B. Wu*, B. Lau and J. Medbo. IEEE Antennas and Wireless Propagation Letters, Vol 11, 2012.
+~~~
 
 
 
