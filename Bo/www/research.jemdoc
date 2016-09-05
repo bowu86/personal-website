@@ -12,16 +12,18 @@ My research interests span the areas of control theory, cyber physical systems a
 == Project
 === *Robust learning based human robot collaboration with performance guarantees*
 ~~~
-{}{img_left}{pic\hri.jpg}{alt text}{400}{160}
+{}{img_left}{pic\hri.jpg}{alt text}{400}{700}
 A reliable and effective collaboration between human and machine has been recognized as being important or even necessary for many safety-critical systems, such as intelligent transportation and manufacturing automation. Achieving such a reliable and effective human-machine collaboration, however, is fairly challenging so far due to the complexities introduced by various types of system uncertainties that may arise from human operation, machine dynamics as well as dynamically changing environments and dynamic interactions between human.
 
 This project it to build a unified formal design framework enabling a resilient human-machine collaboration with performance guarantee. The ideas are drawn from control theory, machine learning and human factor engineering.
 
-Our preliminary results show that to achieve efficient and reliable collaboration, probabilistic models such as Markov Decision Processes (MDP) or Partially Observable MDP (POMDP) must be established which take human fatigue, trust and robot states into consideration. Temporal logic specifications must be enforced to guarantee desired system behavior and optimization needs to be performed for efficiency. 
+Our preliminary results show that to achieve efficient and reliable collaboration, probabilistic models such as Markov Decision Processes (MDP) or Partially Observable MDP (POMDP) must be established which take human fatigue, trust and robot states into consideration. Temporal logic specifications must be enforced to guarantee desired system behavior and optimization needs to be performed for efficiency. A supervisor or the control policy can be learned iteratively through making queries.
 
+-- Developed counterexample guided supervisor learning framework, currently working on the software in C++ under ROS to make the whole process automated
 -- Developed theoretical results on human robot interaction modelling with linear temporal logic (LTL) specification
--- Performed Matlab simulation '
+-- Performed Matlab simulation
 -- Major contributor on the proof-of-concept demo (Python progam under ROS combining perception, manipulation and planning)
+-- Highlighted in Electrical Engineering department's homepage ([https://www.ee.nd.edu/highlights/from-real-steel-to-reality link])
 
 Publication:
 . Trust Based Human Robot Interaction in Manufacturing System \n
@@ -83,7 +85,7 @@ Publication:
 
 === Autonomous indoor fly of unmanned aerial vehicles
 ~~~
-{}{img_left}{pic\uav.JPG}{alt text}{280}{360}
+{}{img_left}{pic\uav.JPG}{alt text}{400}{250}
 - Design the UAV interface structure. Modify the UAV firmware, add necessary communication modules and onboard computer such as Gumstix and Raspberry PI and sensors (Lidar, camera).
 - Program the UAV so that it can fly autonomously indoor with the help of the localization system and sense the environment to achieve higher autonomy.
 ~~~
@@ -95,7 +97,7 @@ Publication:
 ~~~
 === Capacity improvement for cellular networks with multi-sector cooperation 
 ~~~
-{}{img_left}{pic\comm.jpg}{alt text}{400}{500}
+{}{img_left}{pic\comm.jpg}{alt text}{400}{300}
 - Analyzed real communication channel data collected by Ericsson AB
 - Studied how multi-sector cooperation improves channel capacity in cellular networks. 
 
