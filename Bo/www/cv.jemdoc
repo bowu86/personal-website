@@ -2,6 +2,14 @@
 
 The PDF version of my CV can be found [doc/cv.pdf here]
 
+= SUMMARY
+
+- 5\+  years  of  research  and  development  in  machine  learning  based control,  communication  and planning for robotic systems with 10\+ peer reviewed top conference or journal papers 
+- 5\+  years of coding  experience  in C\++, familiar with Python and MATLAB, extensive programming and hands\-on experience with drones and humanoid robots under Linux and Robot Operating System (ROS)  
+- Excellent individual contributor and collaborator 
+- Keen in artificial intelligence and the relevant application development 
+- Bilingual with fluent English and native Chinese 
+
 = EDUCATION
 
 University of Notre Dame, Notre Dame, IN
@@ -13,32 +21,54 @@ University of Notre Dame, Notre Dame, IN
 Lund University, Lund, Sweden
 - Master of Science in Electrical Engineering (GPA: 4/4), May 2011
 
-Xi'an Jiaotong University, Xi’an, China
-- Master Student in Electrical Engineering, May 2009
-
 Harbin Institute of Technology, Harbin, China
 - Bachelor of Science in Electrical Engineering (GPA: 89.7/100), July 2008
 - Recipient, National Scholarship 
 
 = PROFESSIONAL EXPERIENCE
-
 University of Notre Dame, Notre Dame, IN
-Research Assistant, DISCOVER Lab, August 2011 – present
-- Proposed a formal method approach for trust based human robot interaction with application in collaborative manufacturing system, resulting in 1 submission to IEEE top conference.
-- Designed machine learning based framework for probabilistic systems control, with potential application in motion planning and human robot interaction, resulting in 3 publications at IEEE top conferences
-- Proposed a unified approach to multi-agent systems, combining top-down task allocation and bottom-up local motion planning such that connectivity and coordination can be guaranteed, research resulted in publication at the 2015 IFAC Conference on Analysis and Design of Hybrid Systems
-- Analyzed the stability of networked control systems with practical communication protocol and proposed communication-control co-design, resulting in 2 top conference presentations and 1 journal (under review)
-- Developed Baxter humanoid robot, utilizing Robot Operating System and Python to establish vision based robot sensing and manipulation
-- Designed Unmanned Aerial Vehicle (UAV) interface structure, modifying the UAV firmware and programming the onboard computer to achieve autonomous indoor flight
 
-Lund University, Lund, Sweden
-- Master Project, Department of Electrical and Information Technology, August 2009-May 2011
-- Analyzed real data with MATLAB collected by Ericsson AB, studying how multi-sector cooperation improves channel capacity in cellular networks. Project resulted in publication in peer viewed journal 
+Research Assistant, [https://sites.google.com/a/nd.edu/discoverlab/ DISCOVER Lab], August 2011 – present
+
+Machine learning based planning 	2015 January - present
+- Established a novel correct-by-design, machine learning based automated framework for probabilistic system planning
+- With applications in autonomous driving and human robot collaboration, resulting in multiple publications at IEEE top conferences and corresponding software written in C++
+
+Trust based human robot collaboration	2015 August – present
+- Derived an optimal allocation strategy considering the uncertainties and dynamics in human trust, fatigue and robot performance with application in manufacturing systems. 
+- Designed and developed the simulation in MATLAB and proved up to 50% improvement comparing to the existing approach. Resulting in one publication at IEEE top conference and the journal is in preparation
+
+Automata based human robot collaboration robot demo development 	May - July, 2016 
+- Designed and developed Baxter humanoid robot towel folding demo, utilized Robot Operating System (in Python and C++). 
+- Responsible for prototyping, implementing, integrating and testing the sensing, object manipulation and planning classes
+
+Drone development 	August 2013 – August 2014
+- Major contributor in building the indoor autonomous Unmanned Aerial Vehicle (UAV) testbed
+- Designed the UAV interface structure, read through and modified the UAV firmware, programed the onboard computer (Raspberry Pi2) in C++ with communication and task classes all under ROS
+- Achieved autonomous indoor flight and coordination with ground robots with position accuracy less than ±5 inches and delay less than 100 milliseconds
+
+Combined task allocation and planning	 March 2015 – December 2015
+- Developed a unified framework for autonomous integrated task and motion planning that can significantly reduce the planning complexity in exponential order. 
+- Combined top-down task allocation and bottom-up safe motion primitives such that the coordination performance can be guaranteed even in dynamic environments, with possible application in automated warehouse, research resulted in two conference publications and one journal 
+
+Communication and control co-design	 September 2013 – August 2014 
+- Developed a novel approach such that communication protocol could adapt to networked control systems for better performance. 
+- Proposed communication-control co-design framework. Performed simulation written in C++ and the result is proven to be at least 10% more accurate than the existing approach. 
+- The study revealed key insights in the tradeoff between system performance and the provided communication quality of service, resulting in two top conference publications and one journal (under review)
+
+Lund University	                                                                                                            Lund, Sweden
+
+Multisector Cooperation in a Measured Urban Environment 	October 2010 - April 2011
+- Proved how multi-sector cooperation improves channel capacity in cellular networks. 
+- Analyzed real data with MATLAB collected by Ericsson AB and proved 40% channel capacity gain with multi-sector cooperation. Project resulted in publication in peer viewed journal 
 - Thesis advisor: [http://www.eit.lth.se/index.php?uhpuid=dr.lbu&hpuid= Prof. Vincent Lau]
+
+
 
 = Leadership & Service  
 - Professional Affiliations: IEEE, IEEE Control Society
 - Leadership Activities: American Control Conference, 2015, Session Chair; DISCOVER Lab, National Robotics Week, 2014, 2015 and 2016, Team Lead; 
+- Project supervisor for 5\+ undergraduate students 2014 - 2016
 - Peer Reviewer for:
   -- IEEE Conference on Decision and Control
   -- American Control Conference
@@ -46,8 +76,6 @@ Lund University, Lund, Sweden
   -- IFAC Conference on Analysis and Design of Hybrid Systems
   -- IEEE Vehicular Technology Conference
   -- Unmanned Systems
-= Technical Skills 
-- Computer Skills:  Proficient in C/C\++, Python.  MATLAB, Linux, Robot Operating System. 
-- Languages: Fluent in Mandarin  
+
 
 
