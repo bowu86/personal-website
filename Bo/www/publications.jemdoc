@@ -5,9 +5,9 @@
 
 Below is a list of my publications.
 . Distributed Communication-aware Motion Planning for Multi-agent Systems from STL and SpaTeL Specifications \n
-  Z. Liu, *B. Wu*, J. Dai, and H. Lin. Prepare to submit to CDC, 2017,
-. Distributed Permissive Supervisor Synthesis for Probabilistic Multi-Agent Systems through Learning \n
-  *B. Wu*, X. Zhang and H. Lin. Journal in preparation.
+  Z. Liu, *B. Wu*, J. Dai, and H. Lin. Prepare to submit to CDC, 2017.
+. Permissive Supervisor Synthesis for Markov Decision Processes through Learning \n
+  *B. Wu*, X. Zhang and H. Lin. Submitted to IEEE Transactions on Automatic Control, 2017.
 . Counterexample-Guided Abstraction Refinement for POMDPs \n
   X. Zhang, *B. Wu* and H. Lin. Submitted to Formal Methods in System Design, 2017.
 . Combined Top-Down and Bottom-Up Approaches to Performance-guaranteed Design of Cooperative Multi-agent Systems \n
@@ -38,5 +38,6 @@ Below is a list of my publications.
   *B. Wu*, H. Lin and M. Lemmon. Control Automation (ICCA), 11th IEEE International Conference on, 1084-1089, 2014.
 . On MIMO Performance Enhancement with Multisector Cooperation in a Measured Urban Environment \n
   R. Tian, *B. Wu*, B. Lau and J. Medbo. IEEE Antennas and Wireless Propagation Letters, Vol 11, 2012.
-
+. On capacity improvement using multisector cooperative MIMO in a real urban macrocellular environment \n
+  R. Tian, *B. Wu*, B. Lau and J. Medbo. 5th COST IC1004 Management Committee Meeting, 2012.
 
