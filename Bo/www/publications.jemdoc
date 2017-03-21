@@ -4,8 +4,10 @@
 = \n *Bo Wu -- Publications*
 
 Below is a list of my publications.
+. Supervisor Synthesis of POMDP based on Automata Learning \n
+  X. Zhang, *B. Wu* and H. Lin. Journal in preparation, 2017.
 . Distributed Communication-aware Motion Planning for Multi-agent Systems from STL and SpaTeL Specifications \n
-  Z. Liu, *B. Wu*, J. Dai, and H. Lin. Prepare to submit to CDC, 2017.
+  Z. Liu, *B. Wu*, J. Dai, and H. Lin. Submitted to Decision and Control (CDC), 2017 IEEE 56th Annual Conference on, 2017.
 . Permissive Supervisor Synthesis for Markov Decision Processes through Learning \n
   *B. Wu*, X. Zhang and H. Lin. Submitted to IEEE Transactions on Automatic Control, 2017.
 . Counterexample-Guided Abstraction Refinement for POMDPs \n
