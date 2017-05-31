@@ -3,32 +3,36 @@
 = \n *Bo Wu -- Publications*
 
 Below is a list of my publications.
+~~~
+{Journal}
 . A Learning Based Human Robot Collaboration with Temporal Logic Constraints \n 
-  *B. Wu*, B. Hu and H. Lin. Journal in preparation, 2017.
+  *B. Wu*, B. Hu and H. Lin. Submitted, 2017.
 . [https://arxiv.org/abs/1703.08262 Supervisor Synthesis of POMDP based on Automata Learning] \n
-  X. Zhang, *B. Wu* and H. Lin. Submitted to IEEE Transactions on Automatic Control, 2017.
-. Distributed Communication-aware Motion Planning for Multi-agent Systems from STL and SpaTeL Specifications \n
-  Z. Liu, *B. Wu*, J. Dai, and H. Lin. Submitted to Decision and Control (CDC), 2017 IEEE 56th Annual Conference on, 2017.
+  X. Zhang, *B. Wu* and H. Lin. Submitted, 2017.
 . [https://arxiv.org/abs/1703.07351 Permissive Supervisor Synthesis for Markov Decision Processes through Learning] \n
-  *B. Wu*, X. Zhang and H. Lin. Submitted to IEEE Transactions on Automatic Control, 2017.
+  *B. Wu*, X. Zhang and H. Lin. Submitted, 2017.
 . [https://arxiv.org/abs/1701.06209 Counterexample-Guided Abstraction Refinement for POMDPs] \n
-  X. Zhang, *B. Wu* and H. Lin. Submitted to Formal Methods in System Design, 2017.
+  X. Zhang, *B. Wu* and H. Lin. Submitted, 2017.
 . [https://arxiv.org/abs/1607.07797 Combined Top-Down and Bottom-Up Approaches to Performance-guaranteed Design of Cooperative Multi-agent Systems] \n
-  R. Rodrigues da Silva, *B. Wu*, J. Dai and H. Lin. Submitted to Automatica, 2016.
+  R. Rodrigues da Silva, *B. Wu*, J. Dai and H. Lin. Submitted, 2017.
+. Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol \n
+  *B. Wu*, M. Lemmon, H. Lin. Under revision, 2016
+~~~
+
+~~~
+{Conference}
+. [http://arxiv.org/abs/1705.10259 Distributed Communication-aware Motion Planning for Multi-agent Systems from STL and SpaTeL Specifications] \n
+  Z. Liu, *B. Wu*, J. Dai, and H. Lin. Submitted to Decision and Control (CDC), 2017 IEEE 56th Annual Conference on, 2017.
 . [http://www3.nd.edu/~bwu3/doc/ACC2017.pdf Toward Efficient Manufaturing Systems: a Trust Based Human Robot collaboration] \n
-  *B. Wu*, B. Hu and H. Lin. American Control Conference (ACC), 2017, accepted
+  *B. Wu*, B. Hu and H. Lin. American Control Conference (ACC), 2017
 . Communication-aware Motion Planning for Multi-agent Systems from Signal Temporal Logic Specifications \n
-  Z. Liu, J. Dai, *B. Wu* and H. Lin. American Control Conference (ACC), 2017, accepted
-. Formal Design of Cooperative Multi-Agent Systems (extended abstract) \n
-  R. Rodrigues da Silva, *B. Wu*, J. Dai and H. Lin. 2016 AAAI Fall Symposium on Cross-Disciplinary Challenges for Autonomous Systems (CDCAS-2016)
+  Z. Liu, J. Dai, *B. Wu* and H. Lin. American Control Conference (ACC), 2017
 . Assume-guarantee Reasoning Framework for MDP-POMDP \n
   X. Zhang, *B. Wu* and H. Lin. Decision and Control (CDC), 2016 IEEE 55th Annual Conference on, 795-800, 2016.
 . Formal Design of Robot Integrated Task and Motion Planning \n
   R. Rodrigues da Silva, *B. Wu* and H. Lin. Decision and Control (CDC), 2016 IEEE 55th Annual Conference on, 6589-6594, 2016.
 . Counterexample-guided Distributed Permissive Supervisor Synthesis for Probabilistic Multi-agent Systems through Learning \n
   *B. Wu* and H. Lin. American Control Conference (ACC), 5519-5524, 2016
-. Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol \n
-  *B. Wu*, M. Lemmon, H. Lin. IEEE Transactions on Control Systems Technology, under revision, 2016
 . Learning Based Supervisor Synthesis of POMDP for PCTL Specifications \n
   X. Zhang, *B. Wu* and H. Lin. Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 7470-7475, 2015.
 . Combined Top-down and Bottom-up Approach to Cooperative Distributed Multi-agent Control with Connectivity Constraints \n
@@ -43,4 +47,15 @@ Below is a list of my publications.
   R. Tian, *B. Wu*, B. Lau and J. Medbo. IEEE Antennas and Wireless Propagation Letters, Vol 11, 2012.
 . On capacity improvement using multisector cooperative MIMO in a real urban macrocellular environment \n
   R. Tian, *B. Wu*, B. Lau and J. Medbo. 5th COST IC1004 Management Committee Meeting, 2012.
+~~~
+
+~~~
+{Extended abstract}
+. Formal Design of Cooperative Multi-Agent Systems \n
+  R. Rodrigues da Silva, *B. Wu*, J. Dai and H. Lin. 2016 AAAI Fall Symposium on Cross-Disciplinary Challenges for Autonomous Systems (CDCAS-2016)
+~~~
+
+
+
+
 
