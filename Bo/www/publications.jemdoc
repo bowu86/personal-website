@@ -5,24 +5,32 @@
 Below is a list of my publications.
 ~~~
 {Journal}
+. [https://arxiv.org/abs/1607.07797 Combined Top-Down and Bottom-Up Approaches to Performance-guaranteed Design of Cooperative Multi-agent Systems] \n
+  R. Rodrigues da Silva, *B. Wu*, J. Dai and H. Lin. In preparation, 2017.
 . [https://arxiv.org/abs/1706.00007 A Learning Based Human Robot Collaboration with Temporal Logic Constraints] \n 
-  *B. Wu*, B. Hu and H. Lin. Submitted, 2017.
+  *B. Wu*, B. Hu and H. Lin. Under revision, 2017.
 . [https://arxiv.org/abs/1703.08262 Supervisor Synthesis of POMDP based on Automata Learning] \n
   X. Zhang, *B. Wu* and H. Lin. Under revision, 2017.
 . [https://arxiv.org/abs/1703.07351 Permissive Supervisor Synthesis for Markov Decision Processes through Learning] \n
   *B. Wu*, X. Zhang and H. Lin. Under revision, 2017.
 . [https://arxiv.org/abs/1701.06209 Counterexample-Guided Abstraction Refinement for POMDPs] \n
   X. Zhang, *B. Wu* and H. Lin. Under revision, 2017.
-. [https://arxiv.org/abs/1607.07797 Combined Top-Down and Bottom-Up Approaches to Performance-guaranteed Design of Cooperative Multi-agent Systems] \n
-  R. Rodrigues da Silva, *B. Wu*, J. Dai and H. Lin. Submitted, 2017.
 . Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol \n
-  *B. Wu*, M. Lemmon, H. Lin. IEEE Transactions on Control Systems Technology, accepted, 2017
+  *B. Wu*, M. Lemmon, H. Lin. IEEE Transactions on Control Systems Technology, to appear, 2017
 . On MIMO Performance Enhancement with Multisector Cooperation in a Measured Urban Environment \n
   R. Tian, *B. Wu*, B. Lau and J. Medbo. IEEE Antennas and Wireless Propagation Letters, Vol 11, 2012.
 ~~~
 
 ~~~
 {Conference}
+. Synthesis of Insertion Functions to Enforce Decentralized and Joint Opacity Properties of Discrete-event Systems \n
+  *B. Wu*, J. Dai and H. Lin. Submitted to American Control Conference (ACC), 2018.
+. Parameter and Insertion Function Co-synthesis for Opacity Enhancement  in Parametric Stochastic Discrete Event Systems \n
+  *B. Wu*, Z. Liu and H. Lin. Submitted to American Control Conference (ACC), 2018.
+. Solving Complex Tasks Hierarchically from Demonstrations \n
+  W. Zheng, *B. Wu* and H. Lin. Submitted to American Control Conference (ACC), 2018.
+. A Mean Field Game Approach to Swarming Robots Control \n
+  Z. Liu, *B. Wu* and H. Lin. Submitted to American Control Conference (ACC), 2018.
 . [http://arxiv.org/abs/1705.10259 Distributed Communication-aware Motion Planning for Multi-agent Systems from STL and SpaTeL Specifications] \n
   Z. Liu, *B. Wu*, J. Dai, and H. Lin. Decision and Control (CDC), 2017 IEEE 56th Annual Conference on, 2017, accepted.
 . [http://www3.nd.edu/~bwu3/doc/ACC2017.pdf Toward Efficient Manufaturing Systems: a Trust Based Human Robot collaboration] \n
