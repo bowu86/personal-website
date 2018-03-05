@@ -5,8 +5,7 @@
 Below is a list of my publications.
 ~~~
 {Journal}
-. Privacy Preserving Controller Synthesis via Belief Abstraction \n
-  *B. Wu* and H. Lin. To be submitted, 2018.
+
 . Distributed Synthesis for Joint Opacity Enforcement in Discrete-event Systems \n
   *B. Wu*, J, Dai and H. Lin. In preparation, 2018.
 . Distributed Motion Planning for Multi-Agent Systems from STL and SpaTeL Specifications in Unknown Environments \n
@@ -15,6 +14,8 @@ Below is a list of my publications.
   R. Rodrigues da Silva, *B. Wu*, J. Dai and H. Lin. In preparation, 2018.
 . [https://arxiv.org/abs/1703.08262 Supervisor Synthesis of POMDP based on Automata Learning] \n
   X. Zhang, *B. Wu* and H. Lin. In preparation, 2017.
+. [https://arxiv.org/abs/1802.10051 Privacy Preserving Controller Synthesis via Belief Abstraction] \n
+  *B. Wu* and H. Lin. Submitted, 2018.
 . [https://arxiv.org/abs/1701.06209 Counterexample-Guided Abstraction Refinement for POMDPs] \n
   X. Zhang, *B. Wu* and H. Lin. Under review, 2018.
 . [https://arxiv.org/abs/1706.00007 A Learning Based Human Robot Collaboration with Temporal Logic Constraints] \n 
@@ -29,7 +30,7 @@ Below is a list of my publications.
 
 ~~~
 {Conference}
-. Synthesis of Insertion Functions to Enforce Decentralized and Joint Opacity Properties of Discrete-event Systems \n
+. [https://arxiv.org/abs/1802.05728 Synthesis of Insertion Functions to Enforce Decentralized and Joint Opacity Properties of Discrete-event Systems] \n
   *B. Wu*, J. Dai and H. Lin. Accepted to American Control Conference (ACC), 2018.
 . [https://arxiv.org/abs/1802.04836 Parameter and Insertion Function Co-synthesis for Opacity Enhancement  in Parametric Stochastic Discrete Event Systems] \n
   *B. Wu*, Z. Liu and H. Lin. Accepted to American Control Conference (ACC), 2018.
