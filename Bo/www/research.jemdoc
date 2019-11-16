@@ -4,13 +4,20 @@
 = \n *Bo Wu -- Research*
 
 ~~~
-{Towards a Verified Artificial Intelligence}
+{Algorithmic Foundation for Trusted and Proactive Autonomy}
 
-My research interests span the areas of control theory, cyber physical systems and robotics. In particular, I am motivated by learning based safety-critical applications requiring performance guarantees such as search and rescue with a team of robots. I am also interested in human robot interaction with performance guarantees such as manufacturing, semi-autonomous driving and self-driving. Current methods for the specification, design, and cyber physical systems are mostly trial-and-error processes which may lack of performance guarantee and could lead to unexpected failures. My research applies ideas from machine learning, model checking and optimization to develop scalable formal methods framework to guarantee the correct behavior of such complex systems.
+My research develops theories, algorithms, and tools necessary to answer the following central question to  realize the full spectrum of societal and industrial benefits of future autonomy “\emph{how can we, in a data-rich world, efficiently design and operate autonomous systems that can be trusted?}” 
 ~~~
 
 == Project
-=== *Robust learning based human robot collaboration with performance guarantees*
+=== *Privacy verification and enforcement in autonoumous systems*
+
+== Project
+=== *Resilient distributed learning with Byzantine attacks*
+
+
+== Project
+=== *Robust learning-based human-robot collaboration with performance guarantees*
 ~~~
 {}{img_left}{pic\hri.jpg}{alt text}{400}{600}
 A reliable and effective collaboration between human and machine has been recognized as being important or even necessary for many safety-critical systems, such as intelligent transportation and manufacturing automation. Achieving such a reliable and effective human-machine collaboration, however, is fairly challenging so far due to the complexities introduced by various types of system uncertainties that may arise from human operation, machine dynamics as well as dynamically changing environments and dynamic interactions between human.
@@ -40,23 +47,15 @@ Publication:
   *B. Wu* and H. Lin. American Control Conference (ACC), 2894-2899, 2015
 ~~~
 
-~~~
-{}{raw}
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/3LhNnlZMdfk" frameborder="0" allowfullscreen></iframe>
-	
-~~~
-
-
-
-=== *Combined top-down and bottom-up approaches for multi-robot system planning*
+=== *Communication-aware distributed multi-robot planning*
 
 
 ~~~
 {}{img_left}{pic\combined.png}{alt text}{400}{400}
 Cooperative multi-agent systems offer greater efficiency and flexibility due to the redundancy of functionalities, ability to re-configuration and robustness to uncertain environments with applications in power grids, transportation systems, computer networks to robotic teams.
 
-This project is to establish formal design framework to automatically synthesize coordination and control schemes for cooperative multi-agent systems by combining a top-down mission planning with a bottom-up motion planning.
+This project is to establish formal design framework to automatically synthesize coordination and control schemes for cooperative multi-agent systems by considering temporal-logic specifications.
 
 Publication:
 . [http://arxiv.org/abs/1607.07797 Combined Top-Down and Bottom-Up Approaches to Performance-guaranteed Design of Cooperative Multi-agent Systems] \n
@@ -94,11 +93,6 @@ Publication:
 - The whole framwork was written under ROS. 
 ~~~
 
-~~~
-{}{raw}
-<iframe width="420" height="315" src="https://www.youtube.com/embed/F4EuTMwy9zc?rel=0" frameborder="0" allowfullscreen>
-</iframe>			
-~~~
 === Capacity improvement for cellular networks with multi-sector cooperation 
 ~~~
 {}{img_left}{pic\comm.jpg}{alt text}{400}{300}
@@ -109,8 +103,4 @@ Publication:
 . On MIMO Performance Enhancement with Multisector Cooperation in a Measured Urban Environment \n
   R. Tian, *B. Wu*, B. Lau and J. Medbo. IEEE Antennas and Wireless Propagation Letters, Vol 11, 2012.
 ~~~
-
-
-
-
 

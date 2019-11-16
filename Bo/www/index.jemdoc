@@ -6,35 +6,39 @@
 
 ~~~
 {}{img_left}{pic\bo.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
-[http://www.nd.edu/~bwu3/ Bo Wu]
+[https://users.oden.utexas.edu/~bwu/ Bo Wu]
 
 Postdoctoral Researcher,
 
-[https://www.ices.utexas.edu/ Institute for Computational Engineering and Sciences (ICES)], 
+[https://www.oden.utexas.edu/ The Oden Institute for Computational Engineering and Sciences], 
 
 [https://www.utexas.edu/ University of Texas at Austin]
 
 Ste 5.422, Peter O’Donnel, Jr. Building, 
+
 201 E 24th St, Austin, 
 TX 78712, USA, 
 ~~~
 
 == Short bio
-Currently I am a postdoctoral researcher working with [https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page Dr. Ufuk Topcu] in the Institute for Computational Engineering and Sciences (ICES) at University of Texas at Austin. I successfully defended my Ph.D thesis directed by [https://www3.nd.edu/~hlin1/ Dr. Hai Lin] at the University of Notre Dame in April, 2018. My Ph.D thesis is about applying formal methods to the systems modeled as Markov Decision Processes which involves automata learning, unknown models and security issues. 
+Currently, I am a postdoctoral researcher working with [https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page Dr. Ufuk Topcu] in the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I successfully defended my Ph.D. thesis, directed by [https://www3.nd.edu/~hlin1/ Dr. Hai Lin] at the University of Notre Dame in April 2018. 
 
 
-== Research
-- My research interests span the areas of control theory, cyber-physical systems (CPS) and robotics. In particular, I am motivated by safety-critical applications requiring both security and performance guarantees. 
-- My research applies ideas from machine learning, model checking and optimization to develop scalable formal methods framework to guarantee the correct behavior of such complex systems.
+== Research Interests
+- Sequential decision-making under uncertainty, reinforcement learning, cyber-physical systems, distributed learning and control, robotics 
+
+== Research Overview
+- Autonomous systems are expected to find an increasingly wide range of applications from autonomous driving, emergency response to service robots. However, despite the recent advances, deployment and broader adoption of autonomous systems into our technical and social infrastructures are still challenging and controversial.  The integration of future autonomy must be based on trust that autonomous systems will perform as intended without high-regret and unintended consequences.
+
+- To address all these challenges, my research is focused on understanding and developing fundamental design principles of planning and decision-making for future autonomous systems. Autonomous systems often tightly integrate symbolic execution and control systems that interact with the dynamic and uncertain physical environments, which calls for a data-efficient hierarchical sequential decision-making framework based on symbolic planning, control, and learning. Therefore, I believe the principle should be of a hybrid nature at the intersection of machine learning, formal methods, and control theory.
 
 == Education
-- Ph.D., Electrical Engineering, [http://www.nd.edu University of Notre Dame], USA, April, 2018 
+- Ph.D., Electrical Engineering, [http://www.nd.edu University of Notre Dame], USA, April 2018 
 - M.S., Electrical Engineering, [http://www.lunduniversity.lu.se/ Lund University], Sweden, June 2011
 - B.E., Electrical Engineering, [http://www.hit.edu.cn Harbin Institute of Technology], June 2008
 
 == Contact
-- Web: [http://users.ices.utexas.edu/~bwu/ http:\/\/users.ices.utexas.edu\/\~bwu\/]
-- LinkedIn: [https://www.linkedin.com/in/bo-wu-0474bb72 https:\/\/www.linkedin.com\/in\/bo-wu-0474bb72]
+- Web: [http://users.ices.utexas.edu/~bwu/ http:\/\/users.oden.utexas.edu\/\~bwu\/]
 - [https://scholar.google.com/citations?user=tZrCtUMAAAAJ&hl=en Google Scholar]
 - Email: bwu3 + utexas + edu 
 - bowu86 + gmail + com
@@ -42,5 +46,5 @@ Currently I am a postdoctoral researcher working with [https://www.ae.utexas.edu
 Visitors to this website
 ~~~
 {}{raw}
-<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=https://www3.nd.edu/~bwu3/&digit=style/plain/1/&reloads=0" alt="www.reliablecounter.com" title="www.reliablecounter.com" border="0"></a><br /><a href="http://www.analogmix.com" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">www.analogmix.com</a>			
+<a href="http://www.reliablecounter.com" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=https://users.oden.utexas.edu/~bwu/&digit=style/plain/31/&reloads=0" alt="reliablecounter.com" title="reliablecounter.com" border="0"></a><br /><a href="http://https://www.reliablecounter.com/blog" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">reliablecounter.com</a>			
 ~~~

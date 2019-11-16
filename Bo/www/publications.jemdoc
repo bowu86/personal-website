@@ -3,22 +3,26 @@
 = \n *Bo Wu -- Publications*
 ~~~
 {Journal}
-. Distributed Synthesis for Joint Opacity Enforcement in Discrete-event Systems \n
-  *B. Wu*, J, Dai, and H. Lin. In preparation, 2018.
-. Opacity Enhancement in Parametric Stochastic Discrete Event Systems \n
-  *B. Wu*, Z. Liu, and H. Lin. Journal in preparation, 2018.
-. [https://arxiv.org/abs/1607.07797 Combined Top-Down and Bottom-Up Approaches to Performance-guaranteed Design of Cooperative Multi-agent Systems] \n
-  R. Rodrigues da Silva, *B. Wu*, J. Dai, and H. Lin. In preparation, 2018.
-. Distributed Motion Planning for Multi-Agent Systems from STL and SpaTeL Specifications in Unknown Environments \n
-  Z. Liu, *B. Wu*, J. Dai, and H. Lin. To be submitted, 2018.
+.  Unpredictable Planning Under Partial Observability\n
+   M. Hibbard, Y. Savas, *B. Wu*, T. Tanaka, and U. Topcu. in preparation, 2019. 
+. Resilient Distributed Hypothesis TestingWith Time-Varying Network Topology\n
+  *B. Wu*, S. Carr, S. Bharadwaj, Z. Xu, and U. Topcu, to be submitted, 2019.
+. Switched Linear Systems Meet Markov Decision Processes: Stability Analysis and Policy Synthesis\n
+  *B. Wu*, M. Cubuktepe, F. Djeumou, Z. Xu, and U. Topcu, to be submitted, 2019.
+. Constrained Active Classification Using Partially Observable Markov Decision Processes \n
+  *B. Wu*, M. Ahmadi, S. Bharadwaj, and U. Topcu. Submitted to IEEE Transactions on Automatic Control, (full paper), under review, 2019.
+. [https://arxiv.org/abs/1905.08095 Control Theory Meets POMDPs: A Hybrid Systems Approach]\n
+  M. Ahmadi, N. Jansen, *B. Wu*, and U. Topcu. Submitted to IEEE Transactions on Automatic Control, (full paper), under review, 2019.
+. [https://arxiv.org/abs/1703.07351 Permissive Supervisor Synthesis for Markov Decision Processes through Learning] \n
+  *B. Wu*, X. Zhang, and H. Lin. /IEEE Transactions on Automatic Control/, vol. 64, no. 8, pp. 3332-3338, 2019.
+. [https://arxiv.org/abs/1812.01204 Distributed Motion Planning for Multi-Agent Systems from STL and SpaTeL Specifications in Unknown Environments] \n
+  Z. Liu, *B. Wu*, J. Dai, and H. Lin. Submitted to IEEE Transactions on Control of Network Systems, under revision 2018.
 . [https://arxiv.org/abs/1703.08262 Supervisor Synthesis of POMDP based on Automata Learning] \n
-  X. Zhang, *B. Wu*, and H. Lin. Submitted, 2018.
+  *B. Wu*, X. Zhang, and H. Lin. Submitted to Automatica, under revision, 2018.
 . [https://arxiv.org/abs/1706.00007 A Learning Based Human Robot Collaboration with Temporal Logic Constraints] \n 
-  *B. Wu*, B. Hu, and H. Lin. /IEEE Transactions on Automation Science and Engineering/, conditionaly accepted, 2018.
+  *B. Wu*, B. Hu, and H. Lin. /IEEE Transactions on Automation Science and Engineering/, under revision, 2018.
 . [https://arxiv.org/abs/1802.10051 Privacy Verification and Enforcement via Belief Abstraction] \n
   *B. Wu* and H. Lin. /IEEE Control Systems Letters with CDC option/, vol. 2, no. 4, pp. 815-820, 2018.
-. [https://arxiv.org/abs/1703.07351 Permissive Supervisor Synthesis for Markov Decision Processes through Learning] \n
-  *B. Wu*, X. Zhang, and H. Lin. /IEEE Transactions on Automatic Control/, accepted with minor revision, 2018.
 . Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol (*full paper*) \n
   *B. Wu*, M. Lemmon, H. Lin. /IEEE Transactions on Control Systems Technology/, vol. 26, no. 5, pp. 1635-1645, 2018. 
 . On MIMO Performance Enhancement with Multisector Cooperation in a Measured Urban Environment \n
@@ -27,18 +31,34 @@
 
 ~~~
 {Conference}
+. [https://arxiv.org/abs/1909.05912 Joint Inference of Reward Machines and Policies for Reinforcement Learning]\n
+  Z. Xu, I. Gavran, Y. Ahmad, R. Majumdar, D. Neider, U. Topcu, and *B. Wu*, to be submitted to The International Conference on Automated Planning and Scheduling (ICAPS), 2020. 
+. Resilient Distributed Hypothesis Testing with Time-Varying Network Topology\n
+  *B. Wu*, S. Carr, S. Bharadwaj, Z. Xu, and U. Topcu. Submitted to 2020 Annual American Control Conference, 2020.
+. [https://arxiv.org/abs/1910.00043 The Dirichlet Mechanism for Differential Privacy on the Unit Simplex]\n
+  P. Gohari, *B. Wu*, M. Hale, and U. Topcu. Submitted to 2020 Annual American Control Conference, 2020, (Invited Paper).
+. [https://arxiv.org/abs/1904.11454 Reward-Based Deception with Cognitive Bias]\n
+  *B. Wu*, M. Cubuktepe, S. Bharadwaj, and U. Topcu. IEEE 58th Annual Conference on Decision and Control, to appear, 2019.
+. [https://arxiv.org/abs/1904.11456 Switched Linear Systems Meet Markov Decision Processes: Stability Guaranteed Policy Synthesis]\n
+  *B. Wu*, M. Cubuktepe, and U. Topcu. IEEE 58th Annual Conference on Decision and Control, to appear, 2019.
+. [https://www.oden.utexas.edu/media/reports/2019/1905.pdf, Strategy synthesis for surveillance-evasion games with learning-enabled visibility optimization]\n
+  S. Bharadwaj, L. Ly, *B. Wu*, T. Richard, and U. Topcu. IEEE 58th Annual Conference on Decision and Control, to appear, 2019.
+. [https://arxiv.org/abs/1903.07665 Unpredictable Planning Under Partial Observability]\n
+   M. Hibbard, Y. Savas, *B. Wu*, T. Tanaka, and U. Topcu. IEEE 58th Annual Conference on Decision and Control, to appear, 2019.
+. [https://arxiv.org/abs/1909.09939 Controller Synthesis for Multi-Agent Systems with Intermittent Communication: A Metric Temporal Logic Approach]\n
+  Z. Xu, Z. Federico M., *B. Wu*, W. Dixon, and U. Topcu, 57th Annual Allerton Conference on Communication, Control, and Computing, pp. 1015-1022, 2019
 . [https://arxiv.org/abs/1810.00097 Cost-Bounded Active Classification Using Partially Observable Markov Decision Processes]\n
-  *B. Wu*, M. Ahmadi, S. Bharadwaj, and U. Topcu. Submitted to American Control Conference (ACC), 2019.
+  *B. Wu*, M. Ahmadi, S. Bharadwaj, and U. Topcu. American Control Conference (ACC), pp. 1216-1223, 2019.
 . [https://arxiv.org/abs/1810.00093 Barrier Certificates for Assured Machine Teaching]\n
-  M. Ahmadi, *B. Wu*, Y. Chen, Y. Yue, and U. Topcu. Submitted to American Control Conference (ACC), 2019.
+  M. Ahmadi, *B. Wu*, Y. Chen, Y. Yue, and U. Topcu. American Control Conference (ACC), pp. 3658-3663, 2019.
 . [https://arxiv.org/abs/1803.11300 POMDP Model Learning for Human Robot Collaboration] \n
-  Wei Zheng, *B. Wu*, and H. Lin. /Decision and Control (CDC), 2018 IEEE 57th Annual Conference on/, 2018, to appear.
+  Wei Zheng, *B. Wu*, and H. Lin. /Decision and Control (CDC), 2018 IEEE 57th Annual Conference on/, pp. 1156-1161, 2018
 . [https://arxiv.org/abs/1804.03810 Privacy Verification in POMDPs via Barrier Certificates] \n
-  Mohamadreza Ahmadi, *B. Wu*, H. Lin, and U. Topcu. /Decision and Control (CDC), 2018 IEEE 57th Annual Conference on/, 2018, to appear.
+  Mohamadreza Ahmadi, *B. Wu*, H. Lin, and U. Topcu. /Decision and Control (CDC), 2018 IEEE 57th Annual Conference on/, pp. 5610-5615, 2018.
 . Coordinated Robot-assisted Human Crowd Evacuation \n
-  Z, Liu, *B. Wu*, and H. Lin. /Decision and Control (CDC), 2018 IEEE 57th Annual Conference on/, 2018, to appear.
+  Z, Liu, *B. Wu*, and H. Lin. /Decision and Control (CDC), 2018 IEEE 57th Annual Conference on/, pp. 4481-4486, 2018.
 . [https://arxiv.org/abs/1802.10051 Privacy Verification and Enforcement via Belief Abstraction] \n
-  *B. Wu* and H. Lin. /Decision and Control (CDC), 2018 IEEE 57th Annual Conference on/, 2018, to appear.
+  *B. Wu* and H. Lin. /Decision and Control (CDC), 2018 IEEE 57th Annual Conference on/, 2018.
 . [https://arxiv.org/abs/1802.05728 Synthesis of Insertion Functions to Enforce Decentralized and Joint Opacity Properties of Discrete-event Systems] \n
   *B. Wu*, J. Dai, and H. Lin. /American Control Conference (ACC)/, pp. 3026-3031, 2018.
 . [https://arxiv.org/abs/1802.04836 Parameter and Insertion Function Co-synthesis for Opacity Enhancement  in Parametric Stochastic Discrete Event Systems] \n
@@ -74,9 +94,15 @@
 ~~~
 
 ~~~
+{Book chapter}
+. Privacy Verification and Enforcement via Belief Manipulation\n
+  *B. Wu*, H. Lin and U. Topcu. Book chapter in Privacy in Dynamical Systems, Springer, 2019, to appear.
+~~~
+
+~~~
 {Extended abstract}
 . Formal Design of Cooperative Multi-Agent Systems \n
-  R. Rodrigues da Silva, *B. Wu*, J. Dai, and H. Lin. /2016 AAAI Fall Symposium on Cross-Disciplinary Challenges for Autonomous Systems (CDCAS-2016)/
+  R. Rodrigues da Silva, *B. Wu*, J. Dai, and H. Lin. /2016 AAAI Fall Symposium on Cross-Disciplinary Challenges for Autonomous Systems (CDCAS-2016)
 ~~~
 
 
