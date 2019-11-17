@@ -15,8 +15,10 @@ Broadly speacking, the autonomous systems should
 . be *resilient* against corruption by  adversaries,
 . keep sensitive data from different sources *private* during system design and operation, and
 . be *proactive* in  achieving  the desired goal in a timely manner.
+~~~
 
 ~~~
+{}{img_left}{pic\overview.png}{alt text}{600}{200}
 
 == Projects
 
@@ -30,6 +32,6 @@ Broadly speacking, the autonomous systems should
 
 === [others.html *Other past research projects*]
 
-
+~~~
 
 
