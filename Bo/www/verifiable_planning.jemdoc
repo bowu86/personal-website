@@ -5,7 +5,7 @@
 Reliably and efficiently satisfying the rich operating specifications in uncertain environments is a challenging design problem for autonomous systems with partial observability, non-linear, and non-deterministic dynamics.
 ~~~
 
-=== *Compositional automata learning-based Planning*
+=== *Compositional automata learning-based planning*
 ~~~
 {}{img_left}{pic\adas.jpg}{alt text}{400}{300}
 This project is to build a unified counterexample-guided framework enabling autonomous systems with guaranteed performances in probabilistic temporal logic. The ideas are drawn from formal methods and planning.
@@ -15,17 +15,17 @@ Our results achieves efficient and reliable planning for probabilistic models su
 
 Publication:
 . [https://arxiv.org/abs/1703.08262 Supervisor Synthesis of POMDP based on Automata Learning] \n
-  *B. Wu*, X. Zhang, and H. Lin. Submitted to Automatica, under revision, 2018.
+  *B. Wu*, X. Zhang, and H. Lin. Submitted to /Automatica/, under revision, 2018.
 . [https://arxiv.org/abs/1703.07351 Permissive Supervisor Synthesis for Markov Decision Processes through Learning] \n
   *B. Wu*, X. Zhang, and H. Lin. /IEEE Transactions on Automatic Control/, vol. 64, no. 8, pp. 3332-3338, 2019.
 . Assume-guarantee Reasoning Framework for MDP-POMDP \n
   X. Zhang, *B. Wu*, and H. Lin. /Decision and Control (CDC), 2016 IEEE 55th Annual Conference on/, pp. 795-800, 2016.
 . Counterexample-guided Distributed Permissive Supervisor Synthesis for Probabilistic Multi-agent Systems through Learning \n
-  *B. Wu* and H. Lin. American Control Conference (ACC), 5519-5524, 2016
+  *B. Wu* and H. Lin. /American Control Conference (ACC)/, 5519-5524, 2016
 . Learning Based Supervisor Synthesis of POMDP for PCTL Specifications \n
-  X. Zhang, *B. Wu* and H. Lin. Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 7470-7475, 2015.
+  X. Zhang, *B. Wu*, and H. Lin. /Decision and Control (CDC), 2015 IEEE 54th Annual Conference on/, 7470-7475, 2015.
 . Counterexample-guided Permissive Supervisor Synthesis for Probabilistic Systems through Learning \n 
-  *B. Wu* and H. Lin. American Control Conference (ACC), 2894-2899, 2015
+  *B. Wu* and H. Lin. /American Control Conference (ACC)/, 2894-2899, 2015
 ~~~
 
 
@@ -40,13 +40,13 @@ This project is to establish formal design framework to automatically synthesize
 
 Publication:
 . [https://arxiv.org/abs/1812.01204 Distributed Motion Planning for Multi-Agent Systems from STL and SpaTeL Specifications in Unknown Environments] \n
-  Z. Liu, *B. Wu*, J. Dai, and H. Lin. Submitted to IEEE Transactions on Control of Network Systems, under revision 2018.
+  Z. Liu, *B. Wu*, J. Dai, and H. Lin. Submitted to /IEEE Transactions on Control of Network Systems/, under revision 2018.
 . [http://arxiv.org/abs/1705.10259 Distributed Communication-aware Motion Planning for Multi-agent Systems from STL and SpaTeL Specifications] \n
   Z. Liu, *B. Wu*, J. Dai, and H. Lin. /Decision and Control (CDC), 2017 IEEE 56th Annual Conference on/, pp. 4452-4457, 2017.
 . [https://arxiv.org/abs/1705.11085 Communication-aware Motion Planning for Multi-agent Systems from Signal Temporal Logic Specifications] \n
   Z. Liu, J. Dai, *B. Wu*, and H. Lin. /American Control Conference (ACC)/, pp. 2516-2521, 2017
 . Combined Top-down and Bottom-up Approach to Cooperative Distributed Multi-agent Control with Connectivity Constraints \n
-  *B. Wu*, J. Dai and H. Lin. The 5th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 224-229, 2015.
+  *B. Wu*, J. Dai, and H. Lin. /The 5th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)/, 224-229, 2015.
 ~~~
 
 
@@ -57,11 +57,11 @@ The stability of a WNCS is subjected to the uncertainties from unreliable commun
 
 Publication:
 . Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol (*full paper*) \n
-  *B. Wu*, M. Lemmon, H. Lin. /IEEE Transactions on Control Systems Technology/, vol. 26, no. 5, pp. 1635-1645, 2018.
+  *B. Wu*, M. Lemmon, and H. Lin. /IEEE Transactions on Control Systems Technology/, vol. 26, no. 5, pp. 1635-1645, 2018.
 . Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol \n
-  *B. Wu*, H. Lin and M. Lemmon. Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on, 5266-5271, 2014.
+  *B. Wu*, H. Lin, and M. Lemmon. Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on, 5266-5271, 2014.
 . Stability Analysis for Wireless Networked Control System in Unslotted IEEE 802.15.4 Protocol \n 
-  *B. Wu*, H. Lin and M. Lemmon. Control Automation (ICCA), 11th IEEE International Conference on, 1084-1089, 2014.
+  *B. Wu*, H. Lin, and M. Lemmon. Control Automation (ICCA), 11th IEEE International Conference on, 1084-1089, 2014.
 ~~~
 
 

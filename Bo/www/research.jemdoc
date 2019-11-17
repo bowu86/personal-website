@@ -1,10 +1,11 @@
 # jemdoc: menu{MENU}{research.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css}
 
 
-= \n *Bo Wu -- Research*
+= \n *Bo Wu -- Algorithmic Foundation for Trusted and Proactive Autonomy*
 
 ~~~
-{Algorithmic Foundation for Trusted and Proactive Autonomy}
+{}{img_left}{pic\ta.jpg}{alt text}{400}{200}
+
 
 My research develops theories, algorithms, and tools necessary to answer the following central question to  realize the full spectrum of societal and industrial benefits of future autonomy “/how can we, in a data-rich world, efficiently design and operate autonomous systems that can be trusted?/”
 
