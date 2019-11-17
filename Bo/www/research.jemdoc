@@ -18,13 +18,17 @@ Broadly speacking, the autonomous systems should
 ~~~
 
 == Projects
-=== [privacy.html *Privacy verification and enforcement in autonoumous systems*]
-
-=== [resilience.html *Resilient distributed learning with Byzantine attacks*]
 
 === [verifiable_planning.html *Planning under uncertainty with guaranteed performance*]
 
 === [verifiable_learning.html *Data-efficient formal reinforcement learning*]
+
+=== [privacy.html *Privacy verification and enforcement in autonoumous systems*]
+
+=== [resilience.html *Resilient distributed learning with Byzantine attacks*]
+
+=== [others.html *Other past research projects*]
+
 
 
 
