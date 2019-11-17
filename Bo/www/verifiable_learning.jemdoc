@@ -7,10 +7,10 @@
 ~~~
 
 ~~~
-{}{img_left}{pic\hri.jpg}{}{400}{200}
+{}{img_left}{pic\hri.png}{}{350}{400}
 A reliable and effective collaboration between human and machine has been recognized as being important or even necessary for many safety-critical systems, such as intelligent transportation and manufacturing automation. Achieving such a reliable and effective human-machine collaboration, however, is fairly challenging so far due to the complexities introduced by various types of system uncertainties that may arise from human operation, machine dynamics as well as dynamically changing environments and dynamic interactions between human.
 
-This project it to build a unified formal design framework enabling a resilient human-machine collaboration with performance guarantee. The ideas are drawn from control theory, machine learning and human factor engineering.
+This project it to build a unified formal design framework enabling an efficient human-machine collaboration with performance guarantee in linear temporal logic (LTL) formulas. The ideas are drawn from control theory, machine learning and human factor engineering.  I developed probably-approximately-correct (PAC) learning algorithm to find the optimal policy subject to safety specifications and complex temporal goals in a data-efficient manner. The difference between the learned optimal policy and the true optimal policy is proven to be bounded by an arbitrarily small constant with a high confidence level.
 
 
 Publication:
