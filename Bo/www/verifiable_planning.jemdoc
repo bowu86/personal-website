@@ -2,7 +2,13 @@
 
 == Verifiable Planning under Uncertainty in Autonomous Systems
 ~~~
-Reliably and efficiently satisfying the rich operating specifications in uncertain environments is a challenging design problem for autonomous systems with partial observability, non-linear, and non-deterministic dynamics.
+{}{img_left}{pic\mdps.png}{alt text}{250}{150} 
+
+Reliably and efficiently satisfying the rich operating specifications in uncertain environments is a challenging design problem for autonomous systems with 
+
+- partial observability
+
+- non-linear, and non-deterministic dynamics.
 ~~~
 
 === *Compositional automata learning-based planning*
