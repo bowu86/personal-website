@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{verifiable_learning.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css}
 
-== Project
+== Verifiable Reinforcement Learning
 === *Robust learning-based human-robot collaboration with performance guarantees*
 ~~~
 {}{img_left}{pic\baxter.jpg}{}{1000}{300}

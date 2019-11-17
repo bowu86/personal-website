@@ -5,6 +5,21 @@
 
 == Security in Autonomous Systems 
 === *Resilient distributed learning with Byzantine attacks*
+~~~
+Autonomous systems are often deployed in scale to collaboratively achieve a team objective that is out of reach of a single system. Besides external adversaries that pose a threat to the private information,  the networked autonomous systems may also suffer from faulty or compromised subsystems which presents fundamental challenges to guarantee correct system operation and achieve high-confidence autonomy.
+~~~
 
+~~~
+{}{img_left}{pic\Mission_Map.png}{alt text}{300}{300}
+ I developed distributed robust algorithms for processing and sharing local information,  whose almost sure correctness is proven in the limit even with the existence of compromised agents. Unlike most of the existing literature, the convergence is guaranteed without possibly stringent connectivity constraints of the time-varying network topology.
+
+Publication:
+
+. Resilient Distributed Hypothesis Testing with Time-Varying Network Topology\n
+  *B. Wu*, S. Carr, S. Bharadwaj, Z. Xu, and U. Topcu, journal to be submitted, 2019.
+
+. Resilient Distributed Hypothesis Testing with Time-Varying Network Topology\n
+  *B. Wu*, S. Carr, S. Bharadwaj, Z. Xu, and U. Topcu. Submitted to /American Control Conference/, 2020.
+~~~
 
 

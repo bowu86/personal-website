@@ -7,7 +7,7 @@ Reliably and efficiently satisfying the rich operating specifications in uncerta
 
 === *Compositional automata learning-based planning*
 ~~~
-{}{img_left}{pic\adas.jpg}{alt text}{400}{300}
+{}{img_left}{pic\adas.png}{alt text}{400}{500}
 This project is to build a unified counterexample-guided framework enabling autonomous systems with guaranteed performances in probabilistic temporal logic. The ideas are drawn from formal methods and planning.
 
 Our results achieves efficient and reliable planning for probabilistic models such as Markov Decision Processes (MDP) or Partially Observable MDP (POMDP) subject to temporal logic specifications. With the learned permissive strategy, the autonomous systems may still be trusted despite partial loss of their capabilities without costly fault diagnosis and reconfiguration at run-time.
