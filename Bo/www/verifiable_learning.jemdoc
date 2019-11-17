@@ -3,32 +3,21 @@
 == Project
 === *Robust learning-based human-robot collaboration with performance guarantees*
 ~~~
-{}{img_left}{pic\hri.jpg}{alt text}{400}{600}
+{}{img_left}{pic\baxter.jpg}{}{1000}{300}
+~~~
+
+~~~
+{}{img_left}{pic\hri.jpg}{}{400}{200}
 A reliable and effective collaboration between human and machine has been recognized as being important or even necessary for many safety-critical systems, such as intelligent transportation and manufacturing automation. Achieving such a reliable and effective human-machine collaboration, however, is fairly challenging so far due to the complexities introduced by various types of system uncertainties that may arise from human operation, machine dynamics as well as dynamically changing environments and dynamic interactions between human.
 
 This project it to build a unified formal design framework enabling a resilient human-machine collaboration with performance guarantee. The ideas are drawn from control theory, machine learning and human factor engineering.
 
-Our preliminary results show that to achieve efficient and reliable collaboration, probabilistic models such as Markov Decision Processes (MDP) or Partially Observable MDP (POMDP) must be established which take human fatigue, trust and robot states into consideration. Temporal logic specifications must be enforced to guarantee desired system behavior and optimization needs to be performed for efficiency. A supervisor or the control policy can be learned iteratively through making queries.
-
-- Developed counterexample guided supervisor learning framework, currently working on the software in C++ under ROS to make the whole process automated
-- Developed theoretical results on human robot interaction modelling with linear temporal logic (LTL) specification
-- Performed Matlab simulation
-- Major contributor on the proof-of-concept demo (Python progam under ROS combining perception, manipulation and planning)
-- Highlighted in Electrical Engineering department's homepage ([https://www.ee.nd.edu/highlights/from-real-steel-to-reality link])
 
 Publication:
-. Torward Efficient Manufaturing Systems: a Trust Based Human Robot collaboration \n
-  *B. Wu*, B. Hu and H. Lin. Submited to American Control Conference (ACC), 2017
-. Assume-guarantee Reasoning Framework for MDP-POMDP \n
-  X. Zhang, *B. Wu*, and H. Lin. /Decision and Control (CDC), 2016 IEEE 55th Annual Conference on/, pp. 795-800, 2016.
-. Counterexample-guided Distributed Permissive Supervisor Synthesis for Probabilistic Multi-agent Systems through Learning \n
-  *B. Wu* and H. Lin. American Control Conference (ACC), 5519-5524, 2016
-. Learning Based Supervisor Synthesis of POMDP for PCTL Specifications \n
-  X. Zhang, *B. Wu* and H. Lin. Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 7470-7475, 2015.
-. Combined Top-down and Bottom-up Approach to Cooperative Distributed Multi-agent Control with Connectivity Constraints \n
-  *B. Wu*, J. Dai and H. Lin. The 5th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 224-229, 2015.
-. Counterexample-guided Permissive Supervisor Synthesis for Probabilistic Systems through Learning \n 
-  *B. Wu* and H. Lin. American Control Conference (ACC), 2894-2899, 2015
+. [https://arxiv.org/abs/1706.00007 A Learning Based Human Robot Collaboration with Temporal Logic Constraints] \n 
+  *B. Wu*, B. Hu, and H. Lin. /IEEE Transactions on Automation Science and Engineering/, under revision, 2018.
+. Toward Efficient Manufaturing Systems: a Trust Based Human Robot collaboration \n
+  *B. Wu*, B. Hu, and H. Lin. /American Control Conference (ACC)/, pp. 1536-1541, 2017
 ~~~
 
 
