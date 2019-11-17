@@ -1,0 +1,12 @@
+#!/bin/bash
+# My first script
+
+jemdoc index.jemdoc
+jemdoc research.jemdoc
+jemdoc privacy.jemdoc
+jemdoc resilience.jemdoc
+jemdoc verifiable_planning.jemdoc
+jemdoc others.jemdoc
+jemdoc verifiable_learning.jemdoc
+jemdoc activities.jemdoc
+jemdoc publications.jemdoc

@@ -1,33 +1,29 @@
 # jemdoc: menu{MENU}{verifiable_planning.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css}
 
+== Verifiable Planning under Uncertainty in Autonomous Systems
+~~~
+Reliably and efficiently satisfying the rich operating specifications in uncertain environments is a challenging design problem for autonomous systems with partial observability, non-linear, and non-deterministic dynamics.
+~~~
 
-== Project
-=== *Robust learning-based human-robot collaboration with performance guarantees*
+=== *Compositional automata learning-based Planning*
 ~~~
 {}{img_left}{pic\hri.jpg}{alt text}{400}{600}
-A reliable and effective collaboration between human and machine has been recognized as being important or even necessary for many safety-critical systems, such as intelligent transportation and manufacturing automation. Achieving such a reliable and effective human-machine collaboration, however, is fairly challenging so far due to the complexities introduced by various types of system uncertainties that may arise from human operation, machine dynamics as well as dynamically changing environments and dynamic interactions between human.
+This project is to build a unified counterexample-guided framework enabling autonomous systems with guaranteed performances in probabilistic temporal logic. The ideas are drawn from formal methods and planning.
 
-This project it to build a unified formal design framework enabling a resilient human-machine collaboration with performance guarantee. The ideas are drawn from control theory, machine learning and human factor engineering.
+Our results achieves efficient and reliable planning for probabilistic models such as Markov Decision Processes (MDP) or Partially Observable MDP (POMDP) subject to temporal logic specifications. With the learned permissive strategy, the autonomous systems may still be trusted despite partial loss of their capabilities without costly fault diagnosis and reconfiguration at run-time.
 
-Our preliminary results show that to achieve efficient and reliable collaboration, probabilistic models such as Markov Decision Processes (MDP) or Partially Observable MDP (POMDP) must be established which take human fatigue, trust and robot states into consideration. Temporal logic specifications must be enforced to guarantee desired system behavior and optimization needs to be performed for efficiency. A supervisor or the control policy can be learned iteratively through making queries.
-
-- Developed counterexample guided supervisor learning framework, currently working on the software in C++ under ROS to make the whole process automated
-- Developed theoretical results on human robot interaction modelling with linear temporal logic (LTL) specification
-- Performed Matlab simulation
-- Major contributor on the proof-of-concept demo (Python progam under ROS combining perception, manipulation and planning)
-- Highlighted in Electrical Engineering department's homepage ([https://www.ee.nd.edu/highlights/from-real-steel-to-reality link])
 
 Publication:
-. Torward Efficient Manufaturing Systems: a Trust Based Human Robot collaboration \n
-  *B. Wu*, B. Hu and H. Lin. Submited to American Control Conference (ACC), 2017
+. [https://arxiv.org/abs/1703.08262 Supervisor Synthesis of POMDP based on Automata Learning] \n
+  *B. Wu*, X. Zhang, and H. Lin. Submitted to Automatica, under revision, 2018.
+. [https://arxiv.org/abs/1703.07351 Permissive Supervisor Synthesis for Markov Decision Processes through Learning] \n
+  *B. Wu*, X. Zhang, and H. Lin. /IEEE Transactions on Automatic Control/, vol. 64, no. 8, pp. 3332-3338, 2019.
 . Assume-guarantee Reasoning Framework for MDP-POMDP \n
-  X. Zhang, *B. Wu* and H. Lin. Decision and Control (CDC), 2016 IEEE 55th Annual Conference on,2016, accepted.
+  X. Zhang, *B. Wu*, and H. Lin. /Decision and Control (CDC), 2016 IEEE 55th Annual Conference on/, pp. 795-800, 2016.
 . Counterexample-guided Distributed Permissive Supervisor Synthesis for Probabilistic Multi-agent Systems through Learning \n
   *B. Wu* and H. Lin. American Control Conference (ACC), 5519-5524, 2016
 . Learning Based Supervisor Synthesis of POMDP for PCTL Specifications \n
   X. Zhang, *B. Wu* and H. Lin. Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 7470-7475, 2015.
-. Combined Top-down and Bottom-up Approach to Cooperative Distributed Multi-agent Control with Connectivity Constraints \n
-  *B. Wu*, J. Dai and H. Lin. The 5th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 224-229, 2015.
 . Counterexample-guided Permissive Supervisor Synthesis for Probabilistic Systems through Learning \n 
   *B. Wu* and H. Lin. American Control Conference (ACC), 2894-2899, 2015
 ~~~
@@ -70,22 +66,6 @@ Publication:
   *B. Wu*, H. Lin and M. Lemmon. Control Automation (ICCA), 11th IEEE International Conference on, 1084-1089, 2014.
 ~~~
 
-=== Autonomous indoor fly of unmanned aerial vehicles
-~~~
-{}{img_left}{pic\uav.JPG}{alt text}{400}{200}
-- One of the two major contributors. Designed the UAV interface structure. Modified the UAV firmware, added necessary communication modules and onboard computer such as Gumstix and Raspberry PI and sensors (Lidar, camera).
-- Programed the UAV so that it can fly autonomously indoor with the help of the localization system and sense the environment to achieve higher autonomy.
-- The whole framwork was written under ROS. 
-~~~
 
-=== Capacity improvement for cellular networks with multi-sector cooperation 
-~~~
-{}{img_left}{pic\comm.jpg}{alt text}{400}{300}
-- Analyzed real communication channel data collected by Ericsson AB
-- Studied how multi-sector cooperation improves channel capacity in cellular networks. 
-
-Publication:
-. On MIMO Performance Enhancement with Multisector Cooperation in a Measured Urban Environment \n
-  R. Tian, *B. Wu*, B. Lau and J. Medbo. IEEE Antennas and Wireless Propagation Letters, Vol 11, 2012.
 ~~~
 

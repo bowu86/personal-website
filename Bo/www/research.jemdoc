@@ -12,7 +12,12 @@ My research develops theories, algorithms, and tools necessary to answer the fol
 == Project
 === [privacy.html *Privacy verification and enforcement in autonoumous systems*]
 
-=== [resilience.html *Resilient distributed learning with Byzantine attacks]
+=== [resilience.html *Resilient distributed learning with Byzantine attacks*]
+
+=== [verifiable_planning.html *Planning under uncertainty with guaranteed performance*]
+
+=== [verifiable_learning.html *Data-efficient formal reinforcement learning*]
+
 
 === *Robust learning-based human-robot collaboration with performance guarantees*
 ~~~
