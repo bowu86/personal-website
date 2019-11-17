@@ -1,19 +1,7 @@
-# jemdoc: menu{MENU}{research.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css}
+# jemdoc: menu{MENU}{others.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css}
 
-
-= \n *Bo Wu -- Research*
-
-~~~
-{Algorithmic Foundation for Trusted and Proactive Autonomy}
-
-My research develops theories, algorithms, and tools necessary to answer the following central question to  realize the full spectrum of societal and industrial benefits of future autonomy “\emph{how can we, in a data-rich world, efficiently design and operate autonomous systems that can be trusted?}” 
-~~~
 
 == Project
-=== [privacy.html *Privacy verification and enforcement in autonoumous systems*]
-
-=== [resilience.html *Resilient distributed learning with Byzantine attacks]
-
 === *Robust learning-based human-robot collaboration with performance guarantees*
 ~~~
 {}{img_left}{pic\hri.jpg}{alt text}{400}{600}
