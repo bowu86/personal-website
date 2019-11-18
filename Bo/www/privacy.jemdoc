@@ -1,8 +1,8 @@
-# jemdoc: menu{MENU}{privacy.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css}
+# jemdoc: menu{MENU}{privacy.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css},addpackage{amssymb},addpackage{amsmath}
 
 == Privacy in Autonomous Systems 
 ~~~
-{}{img_left}{pic\privacy.png}{alt text}{300}{300}
+{}{img_left}{pic\privacy.png}{alt text}{350}{300}
 - An autonomous system is often a complex system that integrates the symbolic decision-making and the control plants that directly interact with the physical world. 
 
 - Such complexity also introduces vulnerabilities due to the tight coupling of symbolic decision-making and physical dynamics. 
@@ -13,15 +13,51 @@
 === *Privacy verification and enforcement in autonomous systems*
 
 ~~~
-{}{img_left}{pic\opacity.png}{alt text}{400}{300}
-- An autonomous system is often a complex system that integrates the symbolic decision-making and the control plants that directly interact with the physical world. 
+{}{img_left}{pic\opacity.png}{alt text}{380}{200}
+- In many cases, the adversary's estimate is a probability distribution that dynamically evolves with the system operation and can be modeled as a switched system.
 
-- Such complexity also introduces vulnerabilities due to the tight coupling of symbolic decision-making and physical dynamics. 
+- I employed the following approaches to verify or provably enforce the privacy of the autonomous system.
 
-- Consequently, such vulnerabilities pose significant challenges to networked systems that are safety-critical and may have a substantial social or economic impact if its privacy is compromised.
+. Abstraction and symbolic approach
+. Control-theoretic approach with barrier certificates
+
+  
+~~~
+
+~~~
+{}{img_left}{pic\ab.png}{alt text}{550}{350}
+
+Publication:
+
+. [https://arxiv.org/abs/1905.08095 Control Theory Meets POMDPs: A Hybrid Systems Approach]\n
+  M. Ahmadi, N. Jansen, *B. Wu*, and U. Topcu. Submitted to /IEEE Transactions on Automatic Control/, (full paper), under review, 2019.
+. [https://arxiv.org/abs/1802.10051 Privacy Verification and Enforcement via Belief Abstraction] \n
+  *B. Wu* and H. Lin. /IEEE Control Systems Letters with CDC option/, vol. 2, no. 4, pp. 815-820, 2018.
+. [https://arxiv.org/abs/1804.03810 Privacy Verification in POMDPs via Barrier Certificates] \n
+  Mohamadreza Ahmadi, *B. Wu*, H. Lin, and U. Topcu. /Decision and Control (CDC), 2018 IEEE 57th Annual Conference on/, pp. 5610-5615, 2018.
+. [https://arxiv.org/abs/1802.05728 Synthesis of Insertion Functions to Enforce Decentralized and Joint Opacity Properties of Discrete-event Systems] \n
+  *B. Wu*, J. Dai, and H. Lin. /American Control Conference (ACC)/, pp. 3026-3031, 2018.
+. [https://arxiv.org/abs/1802.04836 Parameter and Insertion Function Co-synthesis for Opacity Enhancement  in Parametric Stochastic Discrete Event Systems] \n
+  *B. Wu*, Z. Liu, and H. Lin. /American Control Conference (ACC)/, pp. 3032-3037, 2018.
 ~~~
 
 
 === *A new differential privacy machanism for data in probability simplex*
+~~~
+The system model and control policy may also need to be kept private for reasons like intellectual property rights or being abused by malicious parties. For many autonomous systems, both the model and policy are in the forms of probabilistic distributions that belong to unit simplex, where classical differential privacy based on additive noise privacy mechanisms are ill-suited. 
+ 
+
+One contribution of this project is to present a differentially private mechanism that, without any need of projection, maps elements of $\Delta_n$ to $\Delta_n$. In order to do so, we first introduce the Dirichlet mechanism. A Dirichlet mechanism with parameter $k\in\mathbb{R}_+$, denoted by $\mathcal{M}_D^{(k)}$, takes as input a vector $p\in\Delta_n^\circ$ and outputs $x \in \Delta_n$ according to the Dirichlet probability distribution function (PDF) centered on~$p$, i.e., 
+
+\(
+    \mathbb{P}[\mathcal{M}_D^{(k)}(p)=x] = {\frac{1}{\text{B}(kp)}} \prod\limits_{i=1}^{n-1} x_i^{kp_i-1}\left(1-\sum\limits_{i=1}^{n-1}x_i\right)^{kp_n-1},
+\)
+
+Publication:
+
+. [https://arxiv.org/abs/1910.00043 The Dirichlet Mechanism for Differential Privacy on the Unit Simplex]\n
+  P. Gohari, *B. Wu*, M. Hale, and U. Topcu. Submitted to /American Control Conference/, 2020, (Invited Paper).
+
+~~~
 
 
