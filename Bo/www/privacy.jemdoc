@@ -44,6 +44,8 @@ Publication:
 
 === *A new differential privacy machanism for data in probability simplex*
 ~~~
+{}{img_left}{pic\dp.jpg}{alt text}{550}{550}
+
 The system model and control policy may also need to be kept private for reasons like intellectual property rights or being abused by malicious parties. For many autonomous systems, both the model and policy are in the forms of probabilistic distributions that belong to unit simplex, where classical differential privacy based on additive noise privacy mechanisms are ill-suited. 
  
 
@@ -53,10 +55,23 @@ One contribution of this project is to present a differentially private mechanis
     \mathbb{P}[\mathcal{M}_D^{(k)}(p)=x] = {\frac{1}{\text{B}(kp)}} \prod\limits_{i=1}^{n-1} x_i^{kp_i-1}\left(1-\sum\limits_{i=1}^{n-1}x_i\right)^{kp_n-1},
 \)
 
+where
+\(
+    \text{B}(kp) := \frac{\prod\limits_{i=1}^{n} \Gamma(kp_i)}{\Gamma\left(k\sum\limits_{i=1}^n p_i\right)}
+\)
+is the multi-variate beta function. 
+
+
 Publication:
+. The Dirichlet Mechanism for Differential Privacy on the Unit Simplex\n
+  P. Gohari, *B. Wu*, M. Hale, and U. Topcu. In preparation, 2019. 
 
 . [https://arxiv.org/abs/1910.00043 The Dirichlet Mechanism for Differential Privacy on the Unit Simplex]\n
   P. Gohari, *B. Wu*, M. Hale, and U. Topcu. Submitted to /American Control Conference/, 2020, (Invited Paper).
+
+
+
+
 
 ~~~
 

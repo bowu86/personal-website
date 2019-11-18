@@ -80,22 +80,31 @@ Mohamadreza Ahmadi, <b>B. Wu</b>, H. Lin, and U. Topcu. <i>Decision and Control 
 </ol>
 </td></tr></table>
 <h3><b>A new differential privacy machanism for data in probability simplex</b></h3>
-<div class="infoblock">
-<div class="blockcontent">
-<p>The system model and control policy may also need to be kept private for reasons like intellectual property rights or being abused by malicious parties. For many autonomous systems, both the model and policy are in the forms of probabilistic distributions that belong to unit simplex, where classical differential privacy based on additive noise privacy mechanisms are ill-suited. </p>
+<table class="imgtable"><tr><td>
+<img src="pic\dp.jpg" alt="alt text" width="550px" height="550px" />&nbsp;</td>
+<td align="left"><p>The system model and control policy may also need to be kept private for reasons like intellectual property rights or being abused by malicious parties. For many autonomous systems, both the model and policy are in the forms of probabilistic distributions that belong to unit simplex, where classical differential privacy based on additive noise privacy mechanisms are ill-suited. </p>
 <p>One contribution of this project is to present a differentially private mechanism that, without any need of projection, maps elements of <img class="eq" src="eqs/1315007983439271487-130.png" alt="Delta_n" style="vertical-align: -4px" /> to <img class="eq" src="eqs/1315007983439271487-130.png" alt="Delta_n" style="vertical-align: -4px" />. In order to do so, we first introduce the Dirichlet mechanism. A Dirichlet mechanism with parameter <img class="eq" src="eqs/2237349671834863996-130.png" alt="kinmathbb{R}_+" style="vertical-align: -5px" />, denoted by <img class="eq" src="eqs/2150341912798329927-130.png" alt="mathcal{M}_D^{(k)}" style="vertical-align: -6px" />, takes as input a vector <img class="eq" src="eqs/1282160289645640535-130.png" alt="pinDelta_n^circ" style="vertical-align: -6px" /> and outputs <img class="eq" src="eqs/5262952052483259656-130.png" alt="x in Delta_n" style="vertical-align: -4px" /> according to the Dirichlet probability distribution function (PDF) centered on&nbsp;<img class="eq" src="eqs/14336043121-130.png" alt="p" style="vertical-align: -4px" />, i.e., </p>
 
 <div class="eqwl"><img class="eqwl" src="eqs/8701997656694072450-130.png" alt="     mathbb{P}[mathcal{M}_D^{(k)}(p)=x] = {frac{1}{text{B}(kp)}} prodlimits_{i=1}^{n-1} x_i^{kp_i-1}left(1-sumlimits_{i=1}^{n-1}x_iright)^{kp_n-1}, " />
-<br /></div><p>Publication:</p>
+<br /></div><p>where</p>
+
+<div class="eqwl"><img class="eqwl" src="eqs/4753723191359660298-130.png" alt="     text{B}(kp) := frac{prodlimits_{i=1}^{n} Gamma(kp_i)}{Gammaleft(ksumlimits_{i=1}^n p_iright)} " />
+<br /></div><p>is the multi-variate beta function. </p>
+<p>Publication:</p>
+<ol>
+<li><p>The Dirichlet Mechanism for Differential Privacy on the Unit Simplex<br />
+P. Gohari, <b>B. Wu</b>, M. Hale, and U. Topcu. In preparation, 2019. </p>
+</li>
+</ol>
 <ol>
 <li><p><a href="https://arxiv.org/abs/1910.00043">The Dirichlet Mechanism for Differential Privacy on the Unit Simplex</a><br />
 P. Gohari, <b>B. Wu</b>, M. Hale, and U. Topcu. Submitted to <i>American Control Conference</i>, 2020, (Invited Paper).</p>
 </li>
 </ol>
-</div></div>
+</td></tr></table>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-11-17 21:18:45 CST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2019-11-17 21:37:57 CST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>

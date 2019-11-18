@@ -1,6 +1,16 @@
 # jemdoc: menu{MENU}{verifiable_learning.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css}
 
 == Verifiable Reinforcement Learning
+~~~
+Achieving higher levels of autonomy in uncertain, unstructured, and dynamic environments increasingly relies on state-of-art machine learning techniques, especially reinforcement learning (RL) for automated sequential decision-making. However, several recent high-profile deadly accidents that involve semi-autonomous vehicles have raised concerns about whether current learning-based methods can ever lead us to future full autonomy. 
+
+On the other hand, approaches rooted in formal methods for verification and synthesis can provide guarantees but have difficulty in efficiently reasoning about uncertainty and the correctness of data-driven models. My research combines these two seemingly incompatible paradigms, machine learning and formal methods, to effectively design reliable autonomous systems.
+~~~
+
+=== *JIRP: Joint Inference of Reward Machines and Policies for Reinforcement Learning*
+
+
+
 === *Robust learning-based human-robot collaboration with performance guarantees*
 ~~~
 {}{img_left}{pic\baxter.jpg}{}{1000}{300}
