@@ -1,17 +1,34 @@
 # jemdoc: menu{MENU}{verifiable_learning.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css}
 
-== Verifiable Reinforcement Learning
+= Verifiable Reinforcement Learning
 ~~~
-Achieving higher levels of autonomy in uncertain, unstructured, and dynamic environments increasingly relies on state-of-art machine learning techniques, especially reinforcement learning (RL) for automated sequential decision-making. However, several recent high-profile deadly accidents that involve semi-autonomous vehicles have raised concerns about whether current learning-based methods can ever lead us to future full autonomy. 
+{}{img_left}{pic\rl.png}{}{450}{300}
+- Achieving higher levels of autonomy in uncertain, unstructured, and dynamic environments increasingly relies on state-of-art machine learning techniques, especially reinforcement learning (RL) for automated sequential decision-making. 
 
-On the other hand, approaches rooted in formal methods for verification and synthesis can provide guarantees but have difficulty in efficiently reasoning about uncertainty and the correctness of data-driven models. My research combines these two seemingly incompatible paradigms, machine learning and formal methods, to effectively design reliable autonomous systems.
+- However, several recent high-profile deadly accidents that involve semi-autonomous vehicles have raised concerns about whether current learning-based methods can ever lead us to future full autonomy. 
+
+- On the other hand, approaches rooted in formal methods for verification and synthesis can provide guarantees but have difficulty in efficiently reasoning about uncertainty and the correctness of data-driven models. My research combines these two seemingly incompatible paradigms, machine learning and formal methods, to effectively design reliable autonomous systems.
 ~~~
 
-=== *JIRP: Joint Inference of Reward Machines and Policies for Reinforcement Learning*
+== *JIRP: Joint Inference of Reward Machines and Policies for Reinforcement Learning*
+~~~
+{}{img_left}{pic\jirp.png}{}{500}{300}
+- A bottleneck that limits the wide adoption of RL-based autonomous systems is that existing RL methods are very data-hungry and lack transparency to explain their decisions. 
 
+- To this end, we employ a new hierarchical RL (HRL) framework, which integrates symbolic inference that results in compact symbolic representations to effectively boost and interpret the learning process. The inferred symbolic representation helps explain why and how an agent gets rewarded in a sparse reward environment. 
 
+- We apply two different automaton inferences methods: SAT and RPNI (Regular Positive Negative Inference) to learn the high-level representation which is used to boost RL. 
 
-=== *Robust learning-based human-robot collaboration with performance guarantees*
+- The proposed algorithm is proven to converge almost surely to an optimal policy and is shown to outperform state-of-art RL methods in extensive experiments.
+ 
+~~~
+
+Publication:
+
+. [https://arxiv.org/abs/1909.05912 Joint Inference of Reward Machines and Policies for Reinforcement Learning]\n
+  Z. Xu, I. Gavran, Y. Ahmad, R. Majumdar, D. Neider, U. Topcu, and *B. Wu*. The first two authors have contributed equally; the rest of the authors are ordered alphabetically. To be submitted to /The International Conference on Automated Planning and Scheduling (ICAPS)/, 2020.
+
+== *Robust learning-based human-robot collaboration with performance guarantees*
 ~~~
 {}{img_left}{pic\baxter.jpg}{}{1000}{300}
 ~~~

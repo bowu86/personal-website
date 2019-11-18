@@ -24,14 +24,49 @@
 <div class="menu-item"><a href="others.html">Others</a></div>
 </td>
 <td id="layout-content">
-<h2>Verifiable Reinforcement Learning</h2>
-<div class="infoblock">
-<div class="blockcontent">
-<p>Achieving higher levels of autonomy in uncertain, unstructured, and dynamic environments increasingly relies on state-of-art machine learning techniques, especially reinforcement learning (RL) for automated sequential decision-making. However, several recent high-profile deadly accidents that involve semi-autonomous vehicles have raised concerns about whether current learning-based methods can ever lead us to future full autonomy. </p>
-<p>On the other hand, approaches rooted in formal methods for verification and synthesis can provide guarantees but have difficulty in efficiently reasoning about uncertainty and the correctness of data-driven models. My research combines these two seemingly incompatible paradigms, machine learning and formal methods, to effectively design reliable autonomous systems.</p>
-</div></div>
-<h3><b>JIRP: Joint Inference of Reward Machines and Policies for Reinforcement Learning</b></h3>
-<h3><b>Robust learning-based human-robot collaboration with performance guarantees</b></h3>
+<h1>Verifiable Reinforcement Learning</h1>
+<table class="imgtable"><tr><td>
+<img src="pic\rl.png" alt="" width="450px" height="300px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>Achieving higher levels of autonomy in uncertain, unstructured, and dynamic environments increasingly relies on state-of-art machine learning techniques, especially reinforcement learning (RL) for automated sequential decision-making. </p>
+</li>
+</ul>
+<ul>
+<li><p>However, several recent high-profile deadly accidents that involve semi-autonomous vehicles have raised concerns about whether current learning-based methods can ever lead us to future full autonomy. </p>
+</li>
+</ul>
+<ul>
+<li><p>On the other hand, approaches rooted in formal methods for verification and synthesis can provide guarantees but have difficulty in efficiently reasoning about uncertainty and the correctness of data-driven models. My research combines these two seemingly incompatible paradigms, machine learning and formal methods, to effectively design reliable autonomous systems.</p>
+</li>
+</ul>
+</td></tr></table>
+<h2><b>JIRP: Joint Inference of Reward Machines and Policies for Reinforcement Learning</b></h2>
+<table class="imgtable"><tr><td>
+<img src="pic\jirp.png" alt="" width="500px" height="300px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>A bottleneck that limits the wide adoption of RL-based autonomous systems is that existing RL methods are very data-hungry and lack transparency to explain their decisions. </p>
+</li>
+</ul>
+<ul>
+<li><p>To this end, we employ a new hierarchical RL (HRL) framework, which integrates symbolic inference that results in compact symbolic representations to effectively boost and interpret the learning process. The inferred symbolic representation helps explain why and how an agent gets rewarded in a sparse reward environment. </p>
+</li>
+</ul>
+<ul>
+<li><p>We apply two different automaton inferences methods: SAT and RPNI (Regular Positive Negative Inference) to learn the high-level representation which is used to boost RL. </p>
+</li>
+</ul>
+<ul>
+<li><p>The proposed algorithm is proven to converge almost surely to an optimal policy and is shown to outperform state-of-art RL methods in extensive experiments.</p>
+</li>
+</ul>
+</td></tr></table>
+<p>Publication:</p>
+<ol>
+<li><p><a href="https://arxiv.org/abs/1909.05912">Joint Inference of Reward Machines and Policies for Reinforcement Learning</a><br />
+Z. Xu, I. Gavran, Y. Ahmad, R. Majumdar, D. Neider, U. Topcu, and <b>B. Wu</b>. The first two authors have contributed equally; the rest of the authors are ordered alphabetically. To be submitted to <i>The International Conference on Automated Planning and Scheduling (ICAPS)</i>, 2020.</p>
+</li>
+</ol>
+<h2><b>Robust learning-based human-robot collaboration with performance guarantees</b></h2>
 <table class="imgtable"><tr><td>
 <img src="pic\baxter.jpg" alt="" width="1000px" height="300px" />&nbsp;</td>
 <td align="left"></td></tr></table>
@@ -51,7 +86,7 @@
 </td></tr></table>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-11-17 21:37:57 CST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2019-11-17 22:25:42 CST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>

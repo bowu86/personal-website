@@ -3,8 +3,6 @@
 = \n *Bo Wu -- Publications*
 ~~~
 {Journal}
-. The Dirichlet Mechanism for Differential Privacy on the Unit Simplex\n
-  P. Gohari, *B. Wu*, M. Hale, and U. Topcu. In preparation, 2019. 
 .  Unpredictable Planning Under Partial Observability\n
    M. Hibbard, Y. Savas, *B. Wu*, T. Tanaka, and U. Topcu. In preparation, 2019. 
 . Resilient Distributed Hypothesis Testing with Time-Varying Network Topology\n
@@ -34,8 +32,8 @@
 ~~~
 {Conference}
 . [https://arxiv.org/abs/1909.05912 Joint Inference of Reward Machines and Policies for Reinforcement Learning]\n
-  Z. Xu, I. Gavran, Y. Ahmad, R. Majumdar, D. Neider, U. Topcu, and *B. Wu*, to be submitted to /The International Conference on Automated Planning and Scheduling (ICAPS)/, 2020. 
-. Resilient Distributed Hypothesis Testing with Time-Varying Network Topology\n
+  Z. Xu, I. Gavran, Y. Ahmad, R. Majumdar, D. Neider, U. Topcu, and *B. Wu*. The first two authors have contributed equally; the rest of the authors are ordered alphabetically. To be submitted to /The International Conference on Automated Planning and Scheduling (ICAPS)/, 2020.
+. [doc\dht.pdf Resilient Distributed Hypothesis Testing with Time-Varying Network Topology]\n
   *B. Wu*, S. Carr, S. Bharadwaj, Z. Xu, and U. Topcu. Submitted to /American Control Conference/, 2020.
 . [https://arxiv.org/abs/1910.00043 The Dirichlet Mechanism for Differential Privacy on the Unit Simplex]\n
   P. Gohari, *B. Wu*, M. Hale, and U. Topcu. Submitted to /American Control Conference/, 2020, (Invited Paper).

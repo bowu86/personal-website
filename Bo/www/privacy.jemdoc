@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{privacy.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css},addpackage{amssymb},addpackage{amsmath}
 
-== Privacy in Autonomous Systems 
+= Privacy in Autonomous Systems 
 ~~~
 {}{img_left}{pic\privacy.png}{alt text}{350}{300}
 - An autonomous system is often a complex system that integrates the symbolic decision-making and the control plants that directly interact with the physical world. 
@@ -10,7 +10,7 @@
 - Consequently, such vulnerabilities pose significant challenges to networked systems that are safety-critical and may have a substantial social or economic impact if its privacy is compromised.
 ~~~
 
-=== *Privacy verification and enforcement in autonomous systems*
+== *Privacy verification and enforcement in autonomous systems*
 
 ~~~
 {}{img_left}{pic\opacity.png}{alt text}{380}{200}
@@ -42,7 +42,7 @@ Publication:
 ~~~
 
 
-=== *A new differential privacy machanism for data in probability simplex*
+== *A new differential privacy machanism for data in probability simplex*
 ~~~
 {}{img_left}{pic\dp.jpg}{alt text}{550}{550}
 

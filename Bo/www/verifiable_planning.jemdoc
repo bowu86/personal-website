@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{verifiable_planning.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css}
 
-== Verifiable Planning under Uncertainty in Autonomous Systems
+= Verifiable Planning under Uncertainty in Autonomous Systems
 ~~~
 {}{img_left}{pic\mdps.png}{alt text}{400}{250} 
 
@@ -11,7 +11,7 @@ Reliably and efficiently satisfying the rich operating specifications in uncerta
 - non-linear, and non-deterministic dynamics.
 ~~~
 
-=== *Compositional automata learning-based planning*
+== *Compositional automata learning-based planning*
 ~~~
 {}{img_left}{pic\adas.png}{alt text}{400}{500}
 This project is to build a unified counterexample-guided framework enabling autonomous systems with guaranteed performances in probabilistic temporal logic. The ideas are drawn from formal methods and planning.

@@ -1,0 +1,7 @@
+#!/bin/bash
+# My first script
+
+git pull origin master
+git add .
+git commit -m "UPDATE"
+git push origin master

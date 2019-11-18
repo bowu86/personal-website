@@ -3,8 +3,8 @@
 
 
 
-== Security in Autonomous Systems 
-=== *Resilient distributed learning with Byzantine attacks*
+= Security in Autonomous Systems 
+== *Resilient distributed learning with Byzantine attacks*
 ~~~
 Autonomous systems are often deployed in scale to collaboratively achieve a team objective that is out of reach of a single system. Besides external adversaries that pose a threat to the private information,  the networked autonomous systems may also suffer from faulty or compromised subsystems which presents fundamental challenges to guarantee correct system operation and achieve high-confidence autonomy.
 ~~~

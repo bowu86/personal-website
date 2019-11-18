@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{others.html}, title{Bo Wu - Research},nodefaultcss,addcss{jemdoc.css}
-== Other Past Research Projects
+= Other Past Research Projects
 
-=== Autonomous indoor fly of unmanned aerial vehicles
+== Autonomous indoor fly of unmanned aerial vehicles
 ~~~
 {}{img_left}{pic\uav.JPG}{alt text}{400}{200}
 - One of the two major contributors. Designed the UAV interface structure. Modified the UAV firmware, added necessary communication modules and onboard computer such as Gumstix and Raspberry PI and sensors (Lidar, camera).
@@ -11,7 +11,7 @@
 
 
 
-=== Capacity improvement for cellular networks with multi-sector cooperation
+== Capacity improvement for cellular networks with multi-sector cooperation
 ~~~ 
 {}{img_left}{pic\comm.jpg}{alt text}{400}{300}
 - Analyzed real communication channel data collected by Ericsson AB
