@@ -3,11 +3,11 @@
 = \n *Bo Wu -- Publications*
 ~~~
 {Journal}
-.  Unpredictable Planning Under Partial Observability\n
-   Y. Savas, M. Hibbard, *B. Wu*, T. Tanaka, and U. Topcu, to be submitted. 
 . Resilient Distributed Hypothesis Testing with Time-Varying Network Topology\n
   *B. Wu*, S. Carr, S. Bharadwaj, Z. Xu, and U. Topcu, to be submitted.
-. Switched Linear Systems Meet Markov Decision Processes: Stability Analysis and Policy Synthesis\n
+. [doc\POMDP_ENTROPY_TAC.pdf Entropy Maximization for Partially Observable Markov Decision Processes]\n
+   Y. Savas, M. Hibbard, *B. Wu*, T. Tanaka, and U. Topcu, Submitted to /IEEE Transactions on Automatic Control/, (full paper), under review, 2020.
+. [https://arxiv.org/abs/2001.00835 Policy Synthesis for Switched Linear Systems with Markov Decision Process Switching]\n
   *B. Wu*, M. Cubuktepe, F. Djeumou, Z. Xu, and U. Topcu, Submitted to /IEEE Transactions on Automatic Control/, (full paper), under review, 2020.
 . Constrained Active Classification Using Partially Observable Markov Decision Processes \n
   *B. Wu*, M. Ahmadi, S. Bharadwaj, and U. Topcu. Submitted to /IEEE Transactions on Automatic Control/, (full paper), under review, 2019.
@@ -34,9 +34,9 @@
 . [https://arxiv.org/abs/1909.05912 Joint Inference of Reward Machines and Policies for Reinforcement Learning]\n
   Z. Xu, I. Gavran, Y. Ahmad, R. Majumdar, D. Neider, U. Topcu, and *B. Wu*. The first two authors have contributed equally; the rest of the authors are ordered alphabetically. Submitted to /The International Conference on Automated Planning and Scheduling (ICAPS)/, 2020.
 . [doc\dht.pdf Resilient Distributed Hypothesis Testing with Time-Varying Network Topology]\n
-  *B. Wu*, S. Carr, S. Bharadwaj, Z. Xu, and U. Topcu. Submitted to /American Control Conference/, 2020.
+  *B. Wu*, S. Carr, S. Bharadwaj, Z. Xu, and U. Topcu. /American Control Conference/, 2020, to appear.
 . [https://arxiv.org/abs/1910.00043 The Dirichlet Mechanism for Differential Privacy on the Unit Simplex]\n
-  P. Gohari, *B. Wu*, M. Hale, and U. Topcu. Submitted to /American Control Conference/, 2020, (Invited Paper).
+  P. Gohari, *B. Wu*, M. Hale, and U. Topcu. /American Control Conference/, 2020, (Invited Paper), to appear.
 . [https://arxiv.org/abs/1904.11454 Reward-Based Deception with Cognitive Bias]\n
   *B. Wu*, M. Cubuktepe, S. Bharadwaj, and U. Topcu. Decision and Control (CDC), 2019 IEEE 58th Annual Conference on, to appear, 2019.
 . [https://arxiv.org/abs/1904.11456 Switched Linear Systems Meet Markov Decision Processes: Stability Guaranteed Policy Synthesis]\n
