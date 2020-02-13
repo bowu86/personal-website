@@ -36,9 +36,9 @@
 . [https://arxiv.org/abs/1909.05912 Joint Inference of Reward Machines and Policies for Reinforcement Learning]\n
   Z. Xu, I. Gavran, Y. Ahmad, R. Majumdar, D. Neider, U. Topcu, and *B. Wu*. The first two authors have contributed equally; the rest of the authors are ordered alphabetically. /The International Conference on Automated Planning and Scheduling (ICAPS)/, 2020, to appear. *Acceptance rate = 32%*.
 . [doc\dht.pdf Resilient Distributed Hypothesis Testing with Time-Varying Network Topology]\n
-  *B. Wu*, S. Carr, S. Bharadwaj, Z. Xu, and U. Topcu. /American Control Conference/, 2020, to appear.
+  *B. Wu*, S. Carr, S. Bharadwaj, Z. Xu, and U. Topcu. /American Control Conference (ACC)/, 2020, to appear.
 . [https://arxiv.org/abs/1910.00043 The Dirichlet Mechanism for Differential Privacy on the Unit Simplex]\n
-  P. Gohari, *B. Wu*, M. Hale, and U. Topcu. /American Control Conference/, 2020, (Invited Paper), to appear.
+  P. Gohari, *B. Wu*, M. Hale, and U. Topcu. /American Control Conference (ACC)/, 2020, (Invited Paper), to appear.
 . [https://arxiv.org/abs/1904.11454 Reward-Based Deception with Cognitive Bias]\n
   *B. Wu*, M. Cubuktepe, S. Bharadwaj, and U. Topcu. Decision and Control (CDC), 2019 IEEE 58th Annual Conference on, to appear, 2019.
 . [https://arxiv.org/abs/1904.11456 Switched Linear Systems Meet Markov Decision Processes: Stability Guaranteed Policy Synthesis]\n
@@ -50,9 +50,9 @@
 . [https://arxiv.org/abs/1909.09939 Controller Synthesis for Multi-Agent Systems with Intermittent Communication: A Metric Temporal Logic Approach]\n
   Z. Xu, Z. Federico M., *B. Wu*, W. Dixon, and U. Topcu, /57th Annual Allerton Conference on Communication, Control, and Computing/, pp. 1015-1022, 2019
 . [https://arxiv.org/abs/1810.00097 Cost-Bounded Active Classification Using Partially Observable Markov Decision Processes]\n
-  *B. Wu*, M. Ahmadi, S. Bharadwaj, and U. Topcu. American Control Conference (ACC), pp. 1216-1223, 2019.
+  *B. Wu*, M. Ahmadi, S. Bharadwaj, and U. Topcu. /American Control Conference (ACC)/, pp. 1216-1223, 2019.
 . [https://arxiv.org/abs/1810.00093 Barrier Certificates for Assured Machine Teaching]\n
-  M. Ahmadi, *B. Wu*, Y. Chen, Y. Yue, and U. Topcu. American Control Conference (ACC), pp. 3658-3663, 2019.
+  M. Ahmadi, *B. Wu*, Y. Chen, Y. Yue, and U. Topcu. /American Control Conference (ACC)/, pp. 3658-3663, 2019.
 . [https://arxiv.org/abs/1803.11300 POMDP Model Learning for Human Robot Collaboration] \n
   Wei Zheng, *B. Wu*, and H. Lin. /Decision and Control (CDC), 2018 IEEE 57th Annual Conference on/, pp. 1156-1161, 2018.
 . [https://arxiv.org/abs/1804.03810 Privacy Verification in POMDPs via Barrier Certificates] \n
