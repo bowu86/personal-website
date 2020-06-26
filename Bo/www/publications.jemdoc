@@ -3,6 +3,26 @@
 = \n *Bo Wu -- Publications*
 ~~~
 {Journal}
+. [https://arxiv.org/abs/1703.08262 Supervisor Synthesis of POMDP based on Automata Learning] \n
+  *B. Wu*, X. Zhang, and H. Lin. /Automatica/, *conditionally accepted*, 2020.
+. [https://arxiv.org/abs/1812.01204 Distributed Motion Planning for Multi-Agent Systems from STL and SpaTeL Specifications in Unknown Environments] \n
+  Z. Liu, *B. Wu*, J. Dai, and H. Lin. /IEEE Transactions on Control of Network Systems/, *accepted*, 2020.
+. [https://arxiv.org/abs/1703.07351 Permissive Supervisor Synthesis for Markov Decision Processes through Learning] \n
+  *B. Wu*, X. Zhang, and H. Lin. /IEEE Transactions on Automatic Control/, vol. 64, no. 8, pp. 3332-3338, 2019.
+. [https://arxiv.org/abs/1802.10051 Privacy Verification and Enforcement via Belief Abstraction] \n
+  *B. Wu* and H. Lin. /IEEE Control Systems Letters/, vol. 2, no. 4, pp. 815-820, 2018.
+. Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol \n
+  *B. Wu*, M. Lemmon, and H. Lin. /IEEE Transactions on Control Systems Technology/, vol. 26, no. 5, pp. 1635-1645, 2018. 
+. On MIMO Performance Enhancement with Multisector Cooperation in a Measured Urban Environment \n
+  R. Tian, *B. Wu*, B. Lau, and J. Medbo. /IEEE Antennas and Wireless Propagation Letters/, vol. 11, pp. 488-491, 2012.
+~~~
+
+~~~
+{Journal in Submission/Preparation}
+. Controller Synthesis for Multi-Agent Systems with Intermittent Communication: A Metric Temporal Logic Approach\n
+  Z. Xu, Z. Federico M., *B. Wu*, W. Dixon, and U. Topcu, in preparation.
+. The Dirichlet Mechanism for Differential Privacy on the Unit Simplex\n
+  P. Gohari, *B. Wu*, M. Hale, and U. Topcu, to be submitted. 
 . Resilient Distributed Hypothesis Testing with Time-Varying Network Topology\n
   *B. Wu*, S. Carr, S. Bharadwaj, Z. Xu, and U. Topcu, to be submitted.
 . [doc\POMDP_ENTROPY_TAC.pdf Entropy Maximization for Partially Observable Markov Decision Processes]\n
@@ -13,20 +33,8 @@
   *B. Wu*, M. Ahmadi, S. Bharadwaj, and U. Topcu. Submitted to /IEEE Transactions on Automatic Control/, under revision, 2019.
 . [https://arxiv.org/abs/1905.08095 Control Theory Meets POMDPs: A Hybrid Systems Approach]\n
   M. Ahmadi, N. Jansen, *B. Wu*, and U. Topcu. Submitted to /IEEE Transactions on Automatic Control/, under revision, 2019.
-. [https://arxiv.org/abs/1703.08262 Supervisor Synthesis of POMDP based on Automata Learning] \n
-  *B. Wu*, X. Zhang, and H. Lin. Submitted to /Automatica/, under revision, 2018.
 . [https://arxiv.org/abs/1706.00007 A Learning Based Human Robot Collaboration with Temporal Logic Constraints] \n 
   *B. Wu*, B. Hu, W. Zheng, and H. Lin. /IEEE Transactions on Automation Science and Engineering/, under revision, 2018.
-. [https://arxiv.org/abs/1812.01204 Distributed Motion Planning for Multi-Agent Systems from STL and SpaTeL Specifications in Unknown Environments] \n
-  Z. Liu, *B. Wu*, J. Dai, and H. Lin. /IEEE Transactions on Control of Network Systems/, *conditionally accepted*, 2020.
-. [https://arxiv.org/abs/1703.07351 Permissive Supervisor Synthesis for Markov Decision Processes through Learning] \n
-  *B. Wu*, X. Zhang, and H. Lin. /IEEE Transactions on Automatic Control/, vol. 64, no. 8, pp. 3332-3338, 2019.
-. [https://arxiv.org/abs/1802.10051 Privacy Verification and Enforcement via Belief Abstraction] \n
-  *B. Wu* and H. Lin. /IEEE Control Systems Letters with CDC option/, vol. 2, no. 4, pp. 815-820, 2018.
-. Formal Methods for Stability Analysis of Networked Control Systems with IEEE 802.15.4 Protocol \n
-  *B. Wu*, M. Lemmon, and H. Lin. /IEEE Transactions on Control Systems Technology/, vol. 26, no. 5, pp. 1635-1645, 2018. 
-. On MIMO Performance Enhancement with Multisector Cooperation in a Measured Urban Environment \n
-  R. Tian, *B. Wu*, B. Lau, and J. Medbo. /IEEE Antennas and Wireless Propagation Letters/, vol. 11, pp. 488-491, 2012.
 ~~~
 
 ~~~
